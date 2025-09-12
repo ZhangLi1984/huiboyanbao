@@ -1,0 +1,95 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票过去半年内涨幅巨大（从3月中旬约20元上涨至9月中旬约60元，涨幅约200%），市场存在明显炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票过去半年涨幅显著（从3月中旬约37元上涨至9月中旬约55元，涨幅约50%），结合其波动的盈利能力，存在估值过高和炒作风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期无明显下跌走势，且过去半年股价略有下跌，未出现巨大涨幅。公司财务数据显示营收和净利润持续增长，基本面表现稳健。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票自六月股息调整后（约14元）至八月下旬（约70元）涨幅巨大（超过400%），但同期净利润波动且自由现金流持续为负，存在严重的泡沫和炒作风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票自七月以来涨幅巨大（从约15.7元上涨至八月中旬的32.75元，涨幅超过100%），但营收和净利润波动且呈下降趋势，自由现金流持续为负并进一步恶化，存在高度炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期无明显下跌走势，且过去半年涨幅（约19%）未达到巨大程度。然而，其历史净利润波动较大，2021-2023年间大幅下滑，需警惕基本面风险。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
