@@ -1,0 +1,106 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在过去半年有显著上涨约69.4%，但近期走势未显示明显下跌趋势或达到极度泡沫化的炒作迹象。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在过去半年上涨约50.5%，近期虽有波动，但未形成清晰持续的下跌趋势，亦未见明显泡沫化迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年内涨幅高达201.8%，存在非常巨大的涨幅和潜在的泡沫化风险。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期从9月初的142.15元高点下跌至117.00元，跌幅达17.7%，显示出清晰且持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期从8月中旬的32.75元高点下跌至26.04元，跌幅达20.5%，显示出清晰且持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "600733",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在过去半年上涨约64.6%，近期虽出现大幅波动和从高点回调，但其关键财务数据，如2021年至2023年的流动负债（Current Debt）数据缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002850",
+    "name": "",
+    "analysis_result": {
+      "code": "002850",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在过去半年内涨幅高达219.4%，显示出巨大的涨幅，但其关键财务数据，特别是2022年的流动负债（Current Debt）数据缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
