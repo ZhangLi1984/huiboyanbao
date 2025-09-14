@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅超过200%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价有明显涨幅，但近期走势波动，未出现持续下跌或泡沫化迹象。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅超过300%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去一个月股价从高点下跌近27%，虽有反弹但未有效企稳，表现出明显下跌走势。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价波动不大，近期走势未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去一个月股价从高点出现明显下跌，且未能有效企稳。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价走势平稳，近期未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价温和上涨，近期走势震荡，未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去一个月股价呈现明显下跌趋势，且半年整体表现为下跌。"
+    }
+  }
+]
