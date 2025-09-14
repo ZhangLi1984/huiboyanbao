@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内累计涨幅超过200%（从约20.51元上涨至61.90元），表现出异常强劲的上涨势头，短期内股价涨幅巨大，存在明显的泡沫化风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内累计涨幅超过50%（从约37.04元上涨至55.75元），属于涨幅巨大的范畴，虽然近期股价有所波动，但整体上涨势头强劲，存在潜在的估值过高及炒作风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价略有下跌（约-7.79%），近期（近1个月）小幅上涨（约+5.19%），未出现明显下跌走势或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价小幅上涨（约+1.27%），近期（近1个月）也呈小幅上涨趋势（约+7.62%），未出现明显下跌走势或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价有所下跌（约-6.27%），近期（近1个月）小幅上涨（约+5.40%），未出现明显下跌走势或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "601899",
+    "name": "",
+    "analysis_result": {
+      "code": "601899",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内累计涨幅超过55%（从约16.45元上涨至25.65元），近期（近1个月）涨幅也达23.32%，股价涨幅显著，存在潜在的估值过高及炒作风险。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内累计涨幅接近70%（从约168.74元上涨至284.98元），涨幅巨大，表明市场对其关注度极高，存在潜在的估值过高及炒作风险。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价温和上涨（约+26.50%），近期（近1个月）涨幅较小（约+1.61%），未达到涨幅巨大或明显下跌的排除标准。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价小幅上涨（约+7.96%），近期（近1个月）上涨较多（约+16.73%），但尚未达到涨幅巨大构成泡沫风险的程度，也未出现明显下跌走势，不符合排除标准。"
+    }
+  }
+]
