@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "中国中车",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约20元上涨至61元，涨幅巨大，短期内可能存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "中新集团",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价从约37元上涨至55元，涨幅约50%，但未达到巨大炒作泡沫的程度，近期无明显下跌走势。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "中国联通",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价从约6.16元下跌至5.68元，近期无明显下跌趋势，也未出现巨大涨幅。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价从约1512元上涨至1516元，走势平稳，未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "",
+    "analysis_result": {
+      "code": "601339",
+      "name": "新华保险",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价从约4.85元上涨至5.48元，涨幅约13%，走势平稳，未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "安琪酵母",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约17元上涨至41元，涨幅巨大，短期内可能存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "000895",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "东方财富",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月（9月初至今）股价从约19.5元下跌至16.9元，表现出清晰的持续下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "万华化学",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价从约66.94元上涨至67.79元，走势平稳，未出现明显下跌或巨大涨幅。"
+    }
+  }
+]
