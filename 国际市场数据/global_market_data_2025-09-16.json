@@ -6,8 +6,8 @@
     "Shenzhen_Component_Index": 13005.7744140625,
     "ALUMINUM_future": 2657.0,
     "BTC_price": 115515.9765625,
-    "OIL_price": 63.279998779296875,
-    "USD_CNY_exchange_rate": 7.124199867248535,
+    "OIL_price": 63.33000183105469,
+    "USD_CNY_exchange_rate": 7.118100166320801,
     "Commodity_Index_ETF": 22.549999237060547,
     "US_Dollar_Index": 97.34400177001953,
     "ETH_price": 4515.1240234375,
@@ -16,9 +16,9 @@
     "COPPER_future": 4.718999862670898,
     "High_Yield_Bond_ETF": 81.19000244140625,
     "LIVE_CATTLE_future": 234.625,
-    "GOLD_near_month_future": 3717.300048828125,
-    "NATURAL_GAS_future": 2.996999979019165,
-    "PLATINUM_future": 1416.0,
+    "GOLD_near_month_future": 3717.60009765625,
+    "NATURAL_GAS_future": 3.003000020980835,
+    "PLATINUM_future": 1417.300048828125,
     "SILVER_future": 43.189998626708984,
     "Long_Term_Treasury_ETF": 90.16000366210938,
     "CORN_future": 423.75,
@@ -28,7 +28,7 @@
     "NASDAQ_close": 22348.75,
     "US_10Y_Treasury_Yield": 4.033999919891357,
     "VIX_close": 15.6899995803833,
-    "GOLD_basis_spot_vs_near": 0.199951171875,
+    "GOLD_basis_spot_vs_near": -0.10009765625,
     "China_10Y_Treasury_Yield": 1.8724
   }
 }
