@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票在过去半年内涨幅接近190%，价格从约21.11元上涨至61.10元，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动但无明显下跌趋势，过去半年涨幅约47%，尚未达到排除标准中的泡沫化程度。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近一个月内从约32.58元下跌至26.79元，跌幅约17.77%，呈现清晰、持续的下跌趋势，无企稳迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价呈上升趋势，过去半年涨幅约56%，但尚未达到排除标准中的泡沫化程度。"
+    }
+  },
+  {
+    "code": "002913",
+    "name": "",
+    "analysis_result": {
+      "code": "002913",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价保持上升态势，过去半年涨幅约47%，未见明显排除风险。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价表现强势，过去半年涨幅约50%，但尚未构成排除标准中的泡沫风险。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价保持稳定上涨，过去半年表现强劲，涨幅约68%，但尚未达到排除标准中的泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价稳定，过去半年股价略有下跌，无明显排除风险。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价保持稳定，过去半年有温和涨幅约11%，无明显排除风险。"
+    }
+  }
+]
