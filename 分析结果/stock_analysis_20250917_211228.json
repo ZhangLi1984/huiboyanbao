@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近半年股价上涨约48.70%，近期（近一个月）股价表现平稳，无明显下跌趋势。财务数据完整。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价涨幅高达93.12%，近一个月涨幅也达到56.20%，存在过度炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价涨幅高达189.53%，近一个月涨幅也达到27.57%，存在严重的过度炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价下跌约16.50%，显示出清晰、持续的下跌趋势，没有企稳迹象。尽管近半年有上涨，但近期跌势明显。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价上涨50.81%，近一个月涨幅35.06%，显示出较强的短期投机性，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002180",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002203",
+    "name": "",
+    "analysis_result": {
+      "code": "002203",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近半年股价上涨约29.89%，近期（近一个月）股价有小幅下跌约6.93%，但未形成明显下跌趋势。财务数据完整。"
+    }
+  },
+  {
+    "code": "002549",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300146",
+    "name": "",
+    "analysis_result": {
+      "code": "300146",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近半年和近一个月股价走势平稳，无明显下跌或巨大涨幅。财务数据完整。"
+    }
+  }
+]
