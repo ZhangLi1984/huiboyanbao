@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格近半年有约50%的涨幅，但近期无明显持续下跌趋势，财务表现有波动但未出现持续恶化，未触及排除标准。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格近半年涨幅超过200%，其中近一个月涨幅也高达约45%，市场炒作迹象明显，存在较高泡沫风险。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格近半年有约50%的涨幅，但近期无明显持续下跌趋势，财务报表显示盈利能力波动较大，但未触及排除标准。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格近半年有约46%的涨幅，近期无明显持续下跌趋势，且财务表现持续稳健增长，未触及排除标准。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格近半年略有下跌，近期走势相对平稳，财务表现持续增长，未触及排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格近半年略有下跌，近期走势相对平稳，尽管净利润有所下滑，但未触及排除标准。"
+    }
+  },
+  {
+    "code": "603001",
+    "name": "",
+    "analysis_result": {
+      "code": "603001",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格近一个月下跌超过11%，且连续三年净利润亏损，近期未见企稳迹象，构成明显下跌走势风险。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在过去三周呈现约10%的明显下跌趋势，并持续在低位震荡，未见明确企稳迹象，符合排除标准。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格近半年有约25%的涨幅，近期无明显下跌，但其关键财务数据（利润表、资产负债表、现金流量表）与股票300776完全相同，数据不完整或有误，建议用户自行核实相关财务报表。"
+    }
+  }
+]
