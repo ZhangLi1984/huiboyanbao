@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月19日至2025年9月19日）涨幅超过220%，短期内价格飙升，存在严重的泡沫风险和估值过高问题。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月19日至2025年9月19日）涨幅超过100%，短期内价格飙升，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002180",
+    "name": "",
+    "analysis_result": {
+      "code": "002180",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（从2025年9月初高点约27.95元至2025年9月19日22.62元）呈现出清晰的下跌趋势，跌幅近19%，且未显示出企稳迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内有约49%的涨幅，但近期价格波动属正常范围，未显示明显持续下跌趋势，也不存在估值泡沫风险。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内有约21%的涨幅，近期股价波动属正常回调，未形成明显下跌趋势或达到泡沫化程度。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月19日至2025年9月19日）累计涨幅超过60%，且从5月底至9月初（约3.5个月）涨幅达78%，呈现快速上涨态势，存在较高的估值泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "001282",
+    "name": "",
+    "analysis_result": {
+      "code": "001282",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内股价略有下跌，近期波动未显示出持续下跌趋势或泡沫化风险。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内涨幅温和（约12.5%），近期虽有小幅回调，但未形成明显且持续的下跌趋势，也不存在估值泡沫风险。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
