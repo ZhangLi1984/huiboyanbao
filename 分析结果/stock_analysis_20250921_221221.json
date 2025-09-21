@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约20.6元上涨至约66.1元，涨幅超过220%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去五个月股价从约28.9元上涨至约57.7元，涨幅近100%，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去五个月股价从约17.1元上涨至约32.0元，涨幅近87%，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价整体呈温和上涨，近期虽有小幅回调但无明显下跌趋势，未达巨大涨幅水平。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价有约60%的涨幅，但未达到巨大涨幅接近泡沫的程度，近期股价走势为上涨。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在过去一个月下跌超过19%且没有企稳迹象，同时过去五个月涨幅近90%，存在双重风险。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在过去一个月内下跌近8%，并从近期高点（9月初）回调近10%，呈现明显下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年和近期股价表现均无明显下跌或巨大涨幅，走势平稳。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去五个月股价从约138.4元上涨至约269.4元，涨幅近95%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
