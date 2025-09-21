@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去六个月内（从2025年3月约19元涨至2025年9月约66元）经历了超过300%的巨大涨幅，估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去一个月内呈震荡向上走势，未出现明显下跌。过去六个月涨幅约为60%，虽有上涨但尚未达到“涨幅巨大，炒作接近泡沫”的极端程度，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在过去一个月内（从2025年8月中旬的约32.75元下跌至2025年9月中旬的约26.50元）呈现出清晰、持续的下跌趋势，且近期交易日未见明确企稳迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去一个月内稳步上升，未出现明显下跌。过去六个月内股价有所回调，未出现巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去一个月内呈震荡走势，没有形成清晰、持续的下跌趋势。过去六个月内价格相对稳定，未出现巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去一个月内基本持平，未出现明显下跌。过去六个月内价格略有下跌，未出现巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去一个月内呈窄幅震荡向上，未形成清晰、持续的下跌趋势。过去六个月内价格略有下跌，不符合排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在过去一个月内（从2025年8月中旬的约281元下跌至9月中旬的约269元）呈现出明显的下跌趋势，且近期交易日未见明确企稳迹象。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
