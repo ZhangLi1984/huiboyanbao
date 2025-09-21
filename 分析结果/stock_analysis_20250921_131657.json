@@ -1,0 +1,95 @@
+[
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "公司股价近半年呈窄幅震荡态势，未出现明显的单边下跌或巨大涨幅。财务数据显示，公司营收和净利润在过去几年保持增长，但2024年净利润增速有所放缓，且少数股东权益占比较高，需关注归母净利润的实际表现。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "公司股价近半年（从2025年3月19日至9月19日）累计涨幅高达59.20%，短期内价格飙升，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "公司股价近半年（从2025年3月19日至9月19日）累计涨幅高达220.56%，短期内价格呈现指数级增长，存在极高的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "公司股价近半年呈震荡上行，未出现明显下跌或巨大涨幅。财务数据显示营收持续增长，净利润在波动中恢复，需进一步关注盈利能力的可持续性。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "公司股价在近期一个月内（从2025年8月20日至9月19日）下跌约17.49%，且未出现明确的企稳迹象，显示出较为疲软的市场表现。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "公司股价近半年整体呈窄幅震荡，未出现明显下跌或巨大涨幅。财务数据显示营收持续增长，但净利润在2022年波动后恢复，需关注盈利的持续稳定性。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
