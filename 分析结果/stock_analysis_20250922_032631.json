@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内价格从约20.44上涨至约70.81，涨幅超过200%，存在明显的短期炒作和泡沫风险。同时，公司2024年净利润虽有增长，但股价的巨大涨幅已远超基本面表现。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内价格从约35.85（调整后）上涨至约63.45，涨幅约77%。虽然有显著涨幅，但鉴于其营收和净利润呈现稳定增长趋势，尚未达到“涨幅巨大，炒作接近泡沫”的排除标准。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内价格从约18.06（调整后）上涨至约31.15，涨幅约72%。尽管有较强涨幅，但结合其波动的营收和2024年净利润有所下滑的财务数据来看，其涨幅尚未达到明显的泡沫风险排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从9月初的约70元跌至9月22日的约63.91元）价格呈现清晰、持续的下跌趋势，没有企稳迹象。此外，公司2024年净利润出现大幅下滑，基本面存在压力。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从9月初的约20.5元跌至9月22日的约18.97元）价格呈现清晰、持续的下跌趋势，且过去半年内未出现巨大涨幅以抵消跌势。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票的关键财务数据（如利润表中的部分EBITDA、毛利润等）严重缺失，无法进行全面财务评估，建议用户自行核实相关财务报表。尽管近期股价呈现下跌趋势，但由于数据不完整，根据特殊情况处理规则，不予排除。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从8月底的约5.89元跌至9月22日的约5.44元）价格呈现清晰、持续的下跌趋势。虽然公司营收和净利润呈现稳定增长，但部分细项财务数据缺失。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
