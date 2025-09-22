@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "该股票在过去六个月内价格从约20.44元大幅上涨至约71.55元，涨幅超过200%，近期价格持续上扬，涨幅巨大，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "该股票在过去六个月内价格从约102.47元飙升至约416.04元，涨幅超过300%，短期内涨幅惊人，估值可能过高，存在严重的泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "该股票从7月中旬的约38元上涨至9月底的约63元，在短短两个半月内涨幅接近70%，叠加半年内近80%的涨幅，显示出巨大的短期涨幅和潜在的炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从8月25日的约19.54元高点到9月22日的约18.23元）呈现出明显的下跌趋势，期间虽有反弹但未能企稳，整体呈持续下滑态势。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从8月22日的约67.17元到9月22日的约63.98元）价格持续下跌，趋势清晰且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内涨幅约11%，不构成巨大涨幅。最近一个月价格围绕在39-42元区间波动，未出现清晰、持续的下跌趋势。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "",
+    "analysis_result": {
+      "code": "601339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从8月22日的约5.55元到9月22日的约5.39元）呈现出温和的下跌趋势，尽管跌幅不大，但整体方向向下且缺乏明确的企稳信号。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从8月22日的约5.89元到9月22日的约5.45元）呈现出清晰、持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002549",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
