@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价飙升超过240%，短期内涨幅巨大，存在明显的估值过高和炒作泡沫风险，尽管近期仍保持上涨态势，但长期投资需警惕。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价大幅上涨近77%，近期虽有波动但整体强势，短期内涨幅巨大，可能存在估值过高和炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价表现为震荡整理，虽然近期有所回调，但未形成明确的持续下跌趋势，且整体涨幅不构成泡沫风险。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价有显著上涨，但涨幅尚未达到巨大泡沫的程度，近期股价呈现高位震荡，尚未形成明确的持续下跌趋势。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价大幅上涨超过75%，短期内涨幅巨大，存在估值过高和炒作泡沫的风险。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月及近期内股价表现相对平稳，未出现明显下跌趋势，也无巨大涨幅带来的泡沫风险。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去一个月内股价呈现震荡下行，但有企稳迹象，且过去六个月内无巨大涨幅带来的泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去一个月内股价呈现震荡下行，但有企稳迹象，且过去六个月内无巨大涨幅带来的泡沫风险。"
+    }
+  }
+]
