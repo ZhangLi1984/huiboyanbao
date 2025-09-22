@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅高达245.9%，价格已呈现出巨大的涨幅，存在明显的估值过高和泡沫化炒作风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅接近77%，结合其波动且未持续增长的财务表现，存在估值过高和短期炒作风险。"
+    }
+  },
+  {
+    "code": "002709",
+    "name": "",
+    "analysis_result": {
+      "code": "002709",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅超过56%，但其营收和净利润自2022年以来持续大幅下滑，股价上涨与基本面背离，存在严重的估值泡沫和炒作风险。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅超过54%，然而其净利润持续下滑，且自由现金流长期为负，股价上涨与基本面严重背离，存在估值泡沫和炒作风险。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅高达119.16%，虽然净利润持续增长，但自由现金流大幅波动并在2024年显著下降，股价涨幅巨大，存在估值过高和炒作风险。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内有一定涨幅，但未达到'巨大'范畴。公司营收和净利润在2024年出现回调，但自由现金流保持良好增长态势，未出现明显的排除信号。"
+    }
+  },
+  {
+    "code": "301029",
+    "name": "",
+    "analysis_result": {
+      "code": "301029",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅适中，未达到'巨大'范畴。公司在2024年实现了显著的营收、净利润和自由现金流增长，基本面表现强劲，未出现明显的排除信号。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅适中，未达到'巨大'范畴。公司净利润和每股收益持续增长，自由现金流保持正向，基本面表现稳健，未出现明显的排除信号。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002240",
+    "name": "",
+    "analysis_result": {
+      "code": "002240",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅适中，未达到'巨大'范畴。然而，其营收和净利润自2023年起大幅下滑，2024年更是出现亏损，且自由现金流持续为负，基本面严重恶化，建议用户自行核实并评估其长期风险。"
+    }
+  }
+]
