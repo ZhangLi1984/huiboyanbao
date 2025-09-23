@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价累计涨幅高达246.74%，远超同期净利润增长，存在明显的短期炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅达到74.83%，而同期净利润和EPS在2023年出现下滑，2024年虽有恢复但未达2022年高点，涨幅与基本面不完全匹配，存在炒作风险。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅超过109.43%，尽管公司净利润和EPS呈现持续增长，但如此短时间内股价的巨大涨幅，可能存在过热炒作风险。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价涨幅约35.67%，未达到巨大涨幅标准。近期股价在波动中企稳，未呈现清晰持续的下跌趋势。公司业绩虽有波动，但2024年实现强劲复苏。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价从8月底高点下跌超过17%，且波动剧烈，未出现明确企稳迹象。同时公司净利润和EPS在2023年大幅下滑，2024年虽有恢复但仍远低于前几年水平，基本面承压。"
+    }
+  },
+  {
+    "code": "002549",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价略有下跌，未出现巨大涨幅或近期明显下跌走势。尽管公司营收持续增长，但净利润和EPS自2021年起呈现下降趋势，需关注盈利能力恶化。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "",
+    "analysis_result": {
+      "code": "601339",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价涨幅约9.89%，未达到巨大涨幅标准。近期股价在小幅震荡中未呈现清晰持续的下跌趋势。公司净利润和EPS自2023年以来持续下滑，盈利能力恶化，基本面堪忧。"
+    }
+  }
+]
