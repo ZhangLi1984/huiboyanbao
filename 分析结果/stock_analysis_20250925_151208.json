@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股近半年涨幅接近80%，估值可能过高，且近期盈利和现金流表现波动，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股近半年涨幅超过135%，价格出现剧烈上涨，而近期自由现金流表现波动剧烈且2024年大幅下降，可能存在泡沫风险。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股股价在近期（8月底至今）从高位明显下跌超过17%，且其历史净利润和自由现金流表现波动较大，未见明显企稳。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股股价在近期（8月中旬至今）从高位明显下跌超过20%，显示出清晰、持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股近半年涨幅超过90%，价格上涨幅度巨大，尽管财务数据表现良好，但可能存在过热和泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股股价在近期（9月初至今）从高位明显下跌，且近两年净利润持续下滑，自由现金流为负，基本面存在较大风险，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601609",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000729",
+    "name": "",
+    "analysis_result": {
+      "code": "000729",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股的股价历史数据疑似与其他股票混淆，建议用户自行核实其股价走势。但其财务报表显示营收和净利润稳定增长，现金流表现良好。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股财务报表显示营收和净利润持续强劲增长，现金流稳健，股价近期无明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  }
+]
