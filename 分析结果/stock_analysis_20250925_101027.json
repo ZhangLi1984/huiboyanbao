@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票在过去半年内（2025年3月25日至9月25日）涨幅超过240%，价格短期内大幅上涨，存在较高的炒作和泡沫风险，尽管公司盈利持续增长。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票在过去半年内（2025年3月25日至9月25日）涨幅约67.5%，且公司2023年盈利有所下滑后2024年恢复但未达2022年水平，价格上涨可能存在一定炒作成分和估值过高风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在过去一个多月（从8月中旬高点约34元至9月25日26.02元）下跌超过20%，显示出近期明显下跌走势，且期间虽有反弹但未能形成企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票近期价格波动但未显示出清晰、持续的下跌趋势，且过去半年未出现巨大涨幅。尽管2024年盈利有所下滑，但根据排除标准，不予排除。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票近期价格波动不大，过去半年涨幅温和（约28%），未显示出明确的下跌趋势或泡沫风险。公司营收和净利润呈现稳健增长趋势。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票近期（过去一个月）价格小幅下跌（约6.4%），但未形成清晰、持续的下跌趋势。过去半年整体价格稳定，公司盈利持续增长，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在过去一个月（从8月中旬高点7.75元至9月25日6.96元）下跌约10%，且过去半年整体呈现约65%的显著下跌，股价未有企稳迹象，符合排除标准。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "",
+    "analysis_result": {
+      "code": "601339",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票近期价格相对稳定，过去半年涨幅温和（约7.9%），未显示出明确的下跌趋势或泡沫风险。尽管公司盈利在过去两年有所下滑，但根据排除标准，不予排除。"
+    }
+  }
+]
