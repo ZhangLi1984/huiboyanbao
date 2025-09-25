@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内价格从约20元上涨至约68元，涨幅超过240%，存在巨大炒作和潜在泡沫风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年涨幅约67%，虽然表现强劲，但尚未达到巨大炒作接近泡沫的程度；近期价格波动，未形成明确的持续下跌趋势，不予排除。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月（自9月1日高点约147元起）价格持续下跌至约114元，跌幅超过20%，且未显示明确企稳迹象，呈现近期明显下跌走势，建议排除观察。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年价格整体呈震荡走势，当前价格较六个月前略有下跌，未出现明显持续下跌或巨大涨幅，不予排除。"
+    }
+  },
+  {
+    "code": "300857",
+    "name": "",
+    "analysis_result": {
+      "code": "300857",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内价格从约81元上涨至约167元，涨幅超过100%，且近期仍有冲高表现，存在巨大炒作和潜在泡沫风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在九月下旬价格从约34元的高位下跌至约30元，跌幅近10%，并伴随单日大跌，整体呈现近期明显下跌走势，建议排除观察。"
+    }
+  },
+  {
+    "code": "300751",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300014",
+    "name": "",
+    "analysis_result": {
+      "code": "300014",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年价格虽有波动，但未形成明显持续下跌趋势，且涨幅尚不足以判断为巨大炒作泡沫，不予排除。"
+    }
+  },
+  {
+    "code": "002180",
+    "name": "",
+    "analysis_result": {
+      "code": "002180",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年价格整体呈震荡走势，当前价格较六个月前略有上涨，未出现明显持续下跌或巨大涨幅，不予排除。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年价格整体波动较小，未出现明显持续下跌或巨大涨幅，不予排除。"
+    }
+  }
+]
