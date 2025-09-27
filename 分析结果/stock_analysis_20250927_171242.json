@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价涨幅超过220%，短期内价格翻倍，显示出巨大的投机热潮和潜在的泡沫风险，尽管公司近年财务表现持续稳健增长。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价上涨近60%，特别是在最近三个月内价格翻倍，虽然近期有所回调，但短期内涨幅巨大，存在较高的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价略有下跌，整体走势平稳，无明显下跌或巨大涨幅，且公司财务报表显示持续稳健的盈利增长。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价下跌超过7%，且从9月中旬高点至今呈持续下跌趋势，显示出明显的近期下跌走势，公司盈利能力虽有恢复但仍波动较大。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价下跌超过6.5%，并从9月初的阶段性高点持续回落，显示出明显的近期下跌趋势，尽管公司财务数据持续增长。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价下跌近11%，并从9月初的高点大幅回落，走势极为波动且持续下跌，显示出明显的近期下跌趋势和短期风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价涨幅温和，近期波动不大，无明显下跌或巨大涨幅，公司财务表现虽有波动但2024年有显著改善。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
