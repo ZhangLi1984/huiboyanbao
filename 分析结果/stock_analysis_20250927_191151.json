@@ -1,0 +1,112 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近5个交易日内从高点下跌约11.9%，表现出清晰、持续的下跌趋势，且短期内没有企稳迹象。近半年涨幅约59.31%，存在潜在回调风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅高达224.55%，已经经历了非常巨大的涨幅，估值可能过高，存在泡沫风险。尽管近期有小幅回调，但其整体过热的性质未变。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内累计下跌约11.41%，并在最近5个交易日内进一步下跌约12.4%从近期高点，表现出清晰、持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内下跌约5.94%，从9月初高点下跌约8.09%，整体呈现持续的下跌趋势，没有明显的企稳信号。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近半年整体下跌约7.36%，近期一个月内仅小幅下跌约2.21%，未出现明显下跌走势。近半年涨幅也不大，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近半年涨幅约27.51%，未达到巨大涨幅的程度。近期一个月内价格波动不大，整体略有上涨，未出现明显下跌走势，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近半年内略有下跌约7.16%，近期一个月内也仅有轻微跌幅约0.90%，价格走势平稳，未出现明显下跌或过度炒作的迹象，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近半年下跌约18.19%，但近期一个月内跌幅约4.48%，且价格波动较为平缓，未达到清晰、持续下跌无企稳迹象的排除标准。近半年也未出现巨大涨幅。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "数据不完整，利润表、资产负债表和现金流量表存在关键财务数据严重缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "数据不完整，资产负债表和现金流量表存在关键财务数据严重缺失，建议用户自行核实相关财务报表。尽管近半年涨幅约48.94%，接近巨大涨幅标准。"
+    }
+  }
+]
