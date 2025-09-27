@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价从约20元上涨至约65元，涨幅超过200%，存在巨大的短期涨幅和炒作接近泡沫的风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价从约35元上涨至约56元，涨幅约60%，存在显著的短期涨幅，可能伴随炒作风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价从约27.8元下跌至约24.3元，跌幅超过12%，且近期走势未见明显企稳。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价从约251元上涨至约380元，涨幅超过50%，尤其是在最近一个月内有显著的快速上涨，存在炒作接近泡沫的风险。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价从约20.5元上涨至约31.2元，涨幅超过50%，存在显著的短期涨幅和炒作接近泡沫的风险。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在最近一个月及过去半年内，股价均未出现明显的下跌趋势或巨大的涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（特别是9月中旬以来）呈现清晰、持续的下跌趋势，从约1522元跌至约1435元，跌幅超过5%，且未见明显企稳迹象。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价从约28.3元下跌至约27.4元，跌幅约3%，且9月中旬以来呈现明显的下行趋势。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
