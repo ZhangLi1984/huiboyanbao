@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票在过去半年内从约19元上涨至约66元，涨幅超过240%，表现出巨大的价格上涨和潜在的炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价有显著上涨（约62%），但近期走势呈震荡态势，未见明显持续下跌趋势，也未达到“涨幅巨大，炒作接近泡沫”的排除标准。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价温和上涨（约19%），近期虽有波动但未形成清晰、持续的下跌趋势，亦无明显炒作泡沫迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价有显著上涨（约65%），但整体走势相对稳健，近期价格未出现明显持续下跌，也未达到“涨幅巨大，炒作接近泡沫”的排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价有约39%的健康上涨，近期走势震荡，但未达到明显持续下跌或炒作泡沫的排除标准。"
+    }
+  },
+  {
+    "code": "518880",
+    "name": "",
+    "analysis_result": {
+      "code": "518880",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "数据不完整，建议用户自行核实相关财务报表。股价在过去半年温和上涨，近期走势平稳，未见明显持续下跌或炒作泡沫迹象。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价略有下跌（约-4%），近期走势相对平稳，未见明显持续下跌或炒作泡沫迹象。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "过去半年股价温和上涨（约17%），近期走势平稳，未见明显持续下跌或炒作泡沫迹象。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
