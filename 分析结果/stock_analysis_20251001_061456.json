@@ -1,0 +1,121 @@
+[
+  {
+    "code": "600900",
+    "name": "公布20262030年最低分红比例维持70安全边际稳固",
+    "analysis_result": {
+      "code": "600900",
+      "name": "Unnamed Stock (600900)",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年内波动不大，近期（9月份）虽有小幅下跌，但伴随多次反弹，未形成清晰、持续的下跌趋势，未出现巨大涨幅，故不予排除。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "上半年盈利改善净利润增长68中期拟分红58",
+    "analysis_result": {
+      "code": "601339",
+      "name": "Unnamed Stock (601339)",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年内温和上涨约10%，近期（9月份）走势平稳略有上扬，未达到排除标准。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "Unnamed Stock (601138)",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年内经历了高达约238%的巨大涨幅，存在明显的估值过高和泡沫风险，故应排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "Unnamed Stock (002938)",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年内上涨近60%，涨幅显著，可能存在估值过高和炒作风险，故应排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "Unnamed Stock (600309)",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年及近期（9月份）均表现平稳，未达到排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "Unnamed Stock (002648)",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年呈下跌趋势，近期（9月份）虽有小幅净下跌，但波动较大并出现反弹，未形成清晰、持续的下跌走势，也无巨大涨幅，故不予排除。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "Unnamed Stock (603129)",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在过去半年内从约1530元大幅下跌超过80%至约268元，表现出极其明显的、持续的下跌走势，存在重大下行风险，故应排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "Unnamed Stock (600050)",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年内波动不大，近期（9月份）虽有小幅下跌，但未形成清晰、持续的下跌趋势，也无巨大涨幅，故不予排除。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "Unnamed Stock (600301)",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年内上涨约52%，涨幅显著，可能存在估值过高和炒作风险，故应排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "Unnamed Stock (000683)",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年内整体波动不大，近期（9月份）走势平稳略有下跌，未形成清晰、持续的下跌趋势，也无巨大涨幅，故不予排除。"
+    }
+  }
+]
