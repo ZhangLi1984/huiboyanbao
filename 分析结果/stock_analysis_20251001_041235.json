@@ -1,0 +1,97 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月底至9月底）涨幅高达约238.86%，价格已达到较高水平，存在显著的估值过高及市场炒作风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月底至9月底）涨幅接近60%（约59.69%），虽然近期略有回调，但整体涨幅较大，可能存在估值过高和炒作风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从2025年9月初至9月底）价格从约142.15元下跌至105.28元，跌幅达约25.94%，表现出清晰、持续的下跌趋势，没有明显企稳迹象，建议排除观察。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月底至9月底）涨幅高达约175.99%，价格已呈现非常巨大的涨幅，估值可能过高，存在泡沫风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在最近一个月内价格波动不大，未出现明显下跌趋势。过去半年虽有约46.49%的涨幅，但相比其他股票，其涨幅尚未达到巨大泡沫的程度，可继续观察。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在最近一个月内走势平稳，未出现明显下跌趋势。过去半年涨幅约52.02%，虽有一定幅度，但未被认定为涨幅巨大且存在炒作泡沫风险的极端情况，可继续观察。"
+    }
+  },
+  {
+    "code": "301219",
+    "name": "",
+    "analysis_result": {
+      "code": "301219",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在最近一个月内价格小幅上涨，未出现明显下跌趋势。过去半年涨幅约43.70%，属健康增长范畴，未达巨大涨幅或炒作泡沫的程度，可继续观察。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002846",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
