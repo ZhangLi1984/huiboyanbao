@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅超过200%，存在巨大的泡沫风险。公司财务数据显示其营收和净利润持续增长，但股价的过快上涨已显著超出基本面表现。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期（特别是9月下旬以来）股价呈现清晰的下跌趋势，未能企稳。公司财务数据显示2023年净利润出现明显下滑，基本面存在不确定性。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价虽有上涨，但未达到“涨幅巨大，炒作接近泡沫”的程度，且近期无明显下跌走势。公司财务业绩波动较大，2024年净利润有所下滑，需关注其未来盈利稳定性。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价表现平稳，没有明显下跌或巨大涨幅。公司营收持续增长，但净利润在2024年有所下滑，需要关注其盈利质量和未来增长动力。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期（特别是8月下旬以来）股价呈现清晰的下跌趋势，未能企稳。过去半年整体股价下跌，不符合泡沫风险标准。公司营收保持增长，但净利润波动较大。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期（特别是9月以来）股价呈现清晰的下跌趋势，未能企稳。公司财务业绩表现强劲且持续增长，但近期股价走势转弱，可能处于市场调整期。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期（特别是9月以来）股价呈现清晰的下跌趋势，未能企稳。公司财务表现稳健，营收和净利润保持增长，但近期股价走势偏弱，需警惕下行风险。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅超过300%，存在巨大的泡沫风险。此外，近期（特别是9月以来）股价呈现清晰的下跌趋势，未能企稳。公司财务表现虽有增长，但股价的过快上涨已脱离基本面。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002415",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
