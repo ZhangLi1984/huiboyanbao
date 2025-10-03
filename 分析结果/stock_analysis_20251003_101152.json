@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约19.48元上涨至约66.01元，涨幅超过300%，存在明显的泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近1个月（2025年9月）股价从月初约58.49元下跌至月末约56.07元，且从9月中旬的63.45元高点呈现清晰的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近1个月（2025年9月）股价从月初约26.53元下跌至月末约24.37元，呈现清晰、持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近1个月（2025年9月）股价从月初约63.23元下跌至月末约59.83元，呈现整体下跌趋势，未见企稳迹象。同时，公司近年净利润表现出显著波动和下降趋势。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价小幅上涨，近半年涨幅约3.7%，未见明显下跌或泡沫化迹象。公司近年盈利表现存在一定波动。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近1.5个月（从2025年8月中旬至9月末）股价从约38元高点持续下跌至约35.75元，呈现清晰的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价基本持平，近半年涨幅约16%，未见明显下跌或泡沫化迹象。公司盈利能力近年保持相对稳定。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价经历波动后小幅上涨，近半年涨幅约52%，未见明显下跌或泡沫化迹象。公司盈利能力近年持续增长。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价波动较小，近半年涨幅约8%（从约1405元上涨至约1511元，后小幅回落至1443元），未见明显下跌或泡沫化迹象。公司盈利能力近年持续保持强劲增长。"
+    }
+  }
+]
