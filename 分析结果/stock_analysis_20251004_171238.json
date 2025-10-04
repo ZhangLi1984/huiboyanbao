@@ -1,0 +1,95 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "该股票在过去半年内，从约35元上涨至9月份的约66元高点，涨幅接近90%。这一巨大涨幅可能已导致估值过高，存在炒作接近泡沫的风险。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价涨幅约28%，未达到巨大涨幅标准。近期股价在小幅区间内波动，未表现出清晰、持续的下跌走势。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价表现相对平稳，涨幅约0.38%，未达巨大涨幅标准。近期（最近1个月）股价虽略有下跌，但伴随多次小幅反弹和横盘整理，不构成清晰、持续的下跌趋势。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价维持在相对窄幅区间内波动，涨幅未达巨大标准。近期（最近1个月）股价虽有轻微波动，但无明显持续下跌走势。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "该股票在过去半年内，从约19.76元上涨至9月份的约34元高点，涨幅高达72%。这一显著涨幅表明可能存在过度炒作，估值泡沫风险较高。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（最近1个月）股价呈现清晰且持续的下跌趋势，从9月初的约57.97元下跌至月末的约54.66元，期间虽有小幅反弹，但整体趋势向下，未见企稳迹象。"
+    }
+  }
+]
