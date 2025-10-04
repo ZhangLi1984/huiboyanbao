@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价累计上涨超过274%，涨幅非常巨大，存在明显的泡沫化和过度炒作风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价累计上涨超过122%，涨幅巨大，存在明显的泡沫化和过度炒作风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期和过去半年股价表现平稳，未出现明显下跌或巨大涨幅的情况，财务数据完整。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "code": "300274",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价累计上涨超过193%，涨幅非常巨大，存在明显的泡沫化和过度炒作风险。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期和过去半年股价表现极其稳定，未出现明显下跌或巨大涨幅的情况，财务数据完整。"
+    }
+  },
+  {
+    "code": "600206",
+    "name": "",
+    "analysis_result": {
+      "code": "600206",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价累计大幅上涨超过150%，存在明显的泡沫化和过度炒作风险。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价累计上涨接近94%，考虑到其快速上涨的趋势，存在较高的泡沫化和过度炒作风险。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
