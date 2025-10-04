@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年经历了近60%的巨大涨幅，并在近期（9月下旬）出现超过15%的明显、持续下跌，显示出短期内存在泡沫破裂和技术性调整的风险，应予排除。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅高达近240%，价格已出现巨大的累计涨幅，存在明显的估值过高和泡沫化风险，且近期出现显著回调，应予排除。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内股价走势平稳，未出现近期明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年内股价一度涨幅超过200%，自8月下旬以来呈现明显下跌趋势，累计跌幅较大，存在明显的泡沫破裂和技术性调整风险，应予排除。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内累计涨幅近46%，并于9月中旬后从历史高点下跌近12%，显示出前期涨幅积累的泡沫风险和短期技术调整，应予排除。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002180",
+    "name": "",
+    "analysis_result": {
+      "code": "002180",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票自8月底以来价格呈现明显下跌趋势，跌幅超过11%且未见企稳迹象，符合排除标准。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内累计涨幅超过70%，价格已出现巨大的累计涨幅，存在明显的估值过高和泡沫化风险，应予排除。"
+    }
+  }
+]
