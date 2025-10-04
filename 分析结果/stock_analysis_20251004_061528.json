@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在9月下旬经历了明显的下跌趋势，从高点回落超过15%，且目前未见明确企稳迹象，存在短期进一步调整的风险。同时，过去半年股价有近90%的涨幅，存在一定的泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅高达280%以上，远超公司盈利能力的增长（近三年EPS累计增长约16%），估值泡沫风险巨大，建议排除观察。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅近70%，但公司近几年盈利能力呈明显下滑趋势（2024年EPS远低于2021年），股价上涨与基本面严重背离，存在严重的泡沫化风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价波动平稳，未出现明显下跌或巨大涨幅，公司财务数据呈现温和增长，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价表现平稳，无明显下跌或巨大涨幅。尽管财务数据显示盈利能力有所下滑，但不符合当前观察列表的排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一月内从8月高点下跌超40%，短期走势呈明显下跌趋势，且公司近几年盈利能力显著下滑，股价下跌风险仍存，建议排除观察。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000157",
+    "name": "",
+    "analysis_result": {
+      "code": "000157",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价涨幅温和，近期也无明显下跌趋势。尽管公司财务数据（特别是2024年净利润和EPS）表现不佳，但不符合当前观察列表的排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
