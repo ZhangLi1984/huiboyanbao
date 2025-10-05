@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股价近半年有显著上涨（约59.7%），但未达‘非常巨大’的泡沫程度。近期股价波动较大，9月下旬出现回调，但月末有企稳迹象，未形成清晰、持续的下跌趋势。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股价在过去半年内涨幅高达约126.1%，显著符合‘涨幅巨大，炒作接近泡沫’的排除标准，存在较高的估值风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在9月下旬呈现出清晰、持续的下跌趋势，从9月22日的27.86元下跌至9月30日的24.37元，跌幅约12.5%，且没有明显的企稳迹象，符合‘近期明显下跌走势’的排除标准。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股价近半年有约69.6%的显著上涨，但未达‘非常巨大’的泡沫程度。近期股价整体呈上升趋势，未出现明显下跌。然而，公司财务盈利能力波动较大，建议投资者关注其基本面风险。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股价近半年上涨约62.7%，但结合其近年来强劲的净利润和EPS增长（即使2024年营收略有回调），泡沫风险不明显。近期股价呈上升趋势，未达排除标准。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股价近半年上涨约46.4%，未达‘涨幅巨大’的排除标准。近期股价整体呈稳健上升趋势，未出现明显下跌。但公司财务盈利能力存在波动。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股价近半年涨幅不足1%，未达‘涨幅巨大’的排除标准。近期股价虽有小幅下跌，但月末已出现企稳迹象。需重点关注公司2024年净利润和EPS的显著下滑，这可能影响其长期价值。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股价近半年略有下跌（约5.7%），不存在‘涨幅巨大’问题。近期股价在小幅波动中显示出一定的企稳特征，未形成清晰、持续的下跌趋势。公司财务表现持续稳健增长，基本面良好。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在9月份呈现出明显的持续下跌趋势，从9月9日的58.44元下跌至9月30日的54.66元，跌幅约6.4%，且月末未见清晰企稳迹象，符合‘近期明显下跌走势’的排除标准。"
+    }
+  }
+]
