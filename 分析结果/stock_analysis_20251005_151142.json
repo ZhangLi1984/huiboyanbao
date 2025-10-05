@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅接近239%，远超同期净利润（年化约10%）的增长速度，存在估值过高和炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一周内价格从高点下跌超过10%，且未能企稳，显示出明显的近期下跌走势。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票过去半年涨幅近70%，但其净利润和EPS在近几年呈现波动且总体下降趋势，股价上涨缺乏基本面支撑，可能存在炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价波动属正常范围，过去半年涨幅适中，不符合排除标准，但其长期净利润显著下降，建议密切关注公司基本面变化。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价波动平稳，过去半年涨幅适中，不符合排除标准，但其财务表现波动较大，建议密切关注公司基本面情况。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年虽有显著涨幅（超60%），但公司近几年净利润和EPS持续稳健增长，基本面支撑其股价上涨，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600941",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内价格从高点下跌近10%，且在近期未能企稳，显示出明显的下跌趋势。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内价格从高点下跌超过25%，并在最近一周内下跌超过10%，显示出清晰且持续的下跌走势。"
+    }
+  }
+]
