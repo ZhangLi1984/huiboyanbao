@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约19元上涨至约66元，涨幅超过240%，显示出明显的短期炒作迹象和估值泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约35元上涨至约56元，涨幅近60%，并曾一度接近90%，显示出明显的短期炒作迹象，存在泡沫化风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价呈现高位震荡盘整态势，过去半年涨幅约0.4%，未达巨大程度；财务报表显示营收持续增长但自由现金流为负，需警惕。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约183元上涨至约402元，涨幅超过119%，短期内价格翻倍，存在估值过高和泡沫化的风险。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约9.5元上涨至约16.2元，涨幅超过70%，结合其相对较低的净利润，可能存在过度炒作和泡沫化的风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从约27元下跌至约24元，跌幅近10%，并从高点回落超过15%，呈现清晰、持续的下跌趋势，且无企稳迹象，存在进一步回调的风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "数据不完整，建议用户自行核实相关财务报表。该股票近期股价走势平稳，未出现巨大涨幅或明显下跌。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价处于高位盘整，过去半年经股息调整后股价略有下跌，未出现明显下跌趋势或巨大涨幅，公司财务表现稳健，营收和净利润持续增长，自由现金流充裕。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约247元上涨至约402元，涨幅超过62%，短期内股价快速上涨，存在估值过高和泡沫化的风险。"
+    }
+  }
+]
