@@ -1,0 +1,104 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价上涨约60%，显示出较好的增长势头，但尚未达到泡沫化风险的阈值。近期股价有所波动，但未形成明显下跌趋势。财务数据整体稳健，建议持续关注其基本面表现。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价涨幅高达238%，存在显著的炒作和泡沫风险。尽管财务数据呈现稳健增长，但股价短期内脱离基本面过快上涨，建议排除观察。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "从9月下旬高点至月末，股价下跌约12.5%，期间虽有小幅反弹，但整体趋势向下且未见明显企稳迹象。尽管近半年有涨幅，但短期下跌趋势构成风险，建议排除观察。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价涨幅约11%，表现稳定。近期股价波动较大，但未形成明确的持续下跌趋势。财务数据显示营收和净利润均保持稳健增长，基本面良好，建议持续关注。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价走势平稳，无明显下跌或巨大涨幅。然而，净利润在过去几年呈现波动和下降趋势，与营收增长不符，长期价值需谨慎评估，建议持续关注其财务质量。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价走势平稳，无明显下跌或巨大涨幅。财务数据在营收和净利润方面均呈现持续增长，基本面良好，建议持续关注。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
