@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年内累计涨幅接近60%，但最近一个月（特别是九月下旬）价格从约62.68元下跌至56.07元，跌幅超过10%，呈现清晰的下跌趋势，且未见明显企稳迹象。因此，建议排除。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内经历了高达约238%的惊人涨幅，当前价格虽有小幅回调，但估值可能已严重偏高，存在显著的泡沫风险。因此，建议排除。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年内有约67%的涨幅，但最近一个月（特别是九月下旬）价格从约27.32元下跌至24.37元，跌幅超过10%，表现出清晰、持续的下跌趋势，未见企稳迹象。因此，建议排除。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅微弱，仅约0.38%。最近一个月价格虽有波动，但未形成清晰、持续的下跌趋势，且有企稳反弹迹象。不符合排除标准。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅约为10.69%，属于温和上涨。最近一个月价格虽有波动，但未表现出清晰、持续的下跌趋势。不符合排除标准。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅约为10.65%，属于温和上涨。最近一个月价格虽有波动，但未形成清晰、持续的下跌趋势，且有企稳反弹迹象。不符合排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅高达约52%，属于巨大涨幅。尽管近期股价有所波动，但此前的快速上涨积累了较高的估值风险，可能存在炒作接近泡沫的风险。因此，建议排除。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年内涨幅达到约66%，但最近一个月（特别是九月上旬以来）价格从约10.86元下跌至9.97元，跌幅约8.2%，呈现清晰、持续的下跌趋势，未见企稳迹象。因此，建议排除。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
