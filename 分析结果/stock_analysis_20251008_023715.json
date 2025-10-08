@@ -1,0 +1,97 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内（从2025年3月31日的约19.48元至2025年9月30日的约66.01元）股价涨幅高达239%，显示出非常巨大的短期涨幅，存在明显的泡沫风险。财务数据完整。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内股价上涨约60%，近期价格虽有小幅波动，但未形成清晰、持续的下跌趋势，且涨幅尚不足以被认定为‘巨大涨幅，炒作接近泡沫’。财务数据完整。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内（从2025年3月31日的约40.90元至2025年9月30日的约92.48元）股价涨幅高达126%，显示出非常巨大的短期涨幅，存在明显的泡沫风险。财务数据完整。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内股价上涨约70%，近期价格保持震荡上涨态势，未表现出明显下跌走势，且涨幅未达到‘巨大涨幅，炒作接近泡沫’的判断标准。财务数据完整。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内股价上涨约69%，近期价格持续上涨，未显示出明显下跌走势，且涨幅未达到‘巨大涨幅，炒作接近泡沫’的判断标准。财务数据完整。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内股价上涨约70%，近期价格持续上涨，未表现出明显下跌走势，且涨幅未达到‘巨大涨幅，炒作接近泡沫’的判断标准。财务数据完整。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内股价基本持平，近期呈现窄幅震荡，未显示出明显下跌走势或巨大涨幅。财务数据完整。"
+    }
+  }
+]
