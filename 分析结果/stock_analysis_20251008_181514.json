@@ -1,0 +1,95 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从5月低点约27元涨至9月高点约63元，涨幅超过100%，存在明显的泡沫风险，建议排除。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从6月低点约18元大幅上涨至9月高点约70元，涨幅近300%，存在严重的泡沫化炒作风险，建议排除。"
+    }
+  },
+  {
+    "code": "600584",
+    "name": "",
+    "analysis_result": {
+      "code": "600584",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格波动，未出现清晰的持续下跌趋势，且过去半年涨幅未达到巨大程度。但关键财务数据（如2024年利润表的毛利润和总费用，以及资产负债表的房屋及建筑物）缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格波动，未出现清晰的持续下跌趋势，且过去半年涨幅虽可观（约88%）但未达极端泡沫水平。然而，该股票的关键财务数据（如利润表的多个细项和汇总数据）严重缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票价格在过去半年内波动剧烈，曾有从约200元飙升至约1500元的历史性涨幅，但目前价格（402元）已大幅回调，最近一个月呈上涨趋势。鉴于已有大幅修正，当前不再判定为泡沫风险巨大。财务数据方面未见明显缺失。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在最近一个月（9月）呈现清晰的下跌趋势，从9月高点7.63元跌至月底的6.84元。尽管如此，由于其关键财务数据（包括利润表、资产负债表和现金流量表中的多个关键科目）严重缺失，根据特殊情况处理规则，不予排除，建议用户自行核实相关财务报表。"
+    }
+  }
+]
