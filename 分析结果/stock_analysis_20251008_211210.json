@@ -1,0 +1,99 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约35.1元上涨至约56.1元，涨幅近60%，价格已大幅上涨，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约40.9元大幅上涨至约92.5元，涨幅超过126%，短期内涨幅巨大，存在严重的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约48.3元上涨至约70.6元，涨幅达46%以上，短期内涨幅较大，需警惕潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "301029",
+    "name": "",
+    "analysis_result": {
+      "code": "301029",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格波动但整体趋势向上，且过去半年约28.8%的涨幅虽可观但未达到\"巨大\"程度，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去一月和半年内价格波动不大，整体表现平稳，未出现明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002155",
+    "name": "",
+    "analysis_result": {
+      "code": "002155",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格波动，但整体趋势向上，且过去半年约28.7%的涨幅属正常范围，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约9.5元大幅上涨至约16.2元，涨幅超过70%，短期内涨幅巨大，存在严重的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内，从9月中旬的1523.5元高点持续下跌至月末的1443.99元，表现出清晰、持续的下跌趋势，短期内未见企稳迹象。"
+    }
+  }
+]
