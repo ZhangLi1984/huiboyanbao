@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（特别是2025年7月至9月中旬）股价从约32元快速拉升至约63元，涨幅接近100%，存在明显的短期炒作和估值泡沫风险。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月底约40元涨至9月底约92元，期间最高触及99元），股价涨幅超过120%，出现显著的快速拉升，表明存在较高的短期炒作和估值泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年3月底约14元涨至8月中旬约32元），股价涨幅超过120%，虽然近期有所回调，但整体涨幅巨大，存在较高的短期炒作和估值泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价整体波动，但未出现显著的巨大涨幅。在近期（2025年9月）虽有下跌，但月末已出现企稳回升迹象，不符合排除标准。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价维持在相对稳定的区间内震荡，未出现明显持续下跌或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002850",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "301219",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在2025年9月中旬（从约1523元）开始出现明显持续下跌趋势，至9月底收盘价约1443元，跌幅显著且未见明确企稳迹象，符合排除标准。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在2025年9月份呈现持续下跌趋势，从月初高点约58元下跌至月末约54元，临近月末跌幅加速，未见明确企稳迹象，符合排除标准。"
+    }
+  }
+]
