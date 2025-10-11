@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近半年涨幅近300%，价格已大幅上涨，可能存在估值过高及泡沫风险，尽管财务报表显示营收和净利润稳健增长。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近半年涨幅约100%，价格已大幅上涨，且近几年净利润和每股收益有所波动，可能存在估值过高及泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近半年涨幅接近100%，价格已大幅上涨。尽管营收持续增长，但净利润和每股收益波动较大，2022年曾大幅下滑，可能存在估值过高及泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近1个月呈现明显下跌走势，未能企稳。尽管公司营收和净利润保持稳定增长，但短期股价表现不佳。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年涨幅约22%，不属于巨大涨幅。近1个月股价表现波动，但未形成明显持续下跌。公司营收持续增长，自由现金流表现良好，但净利润曾有波动。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近半年涨幅超过85%，价格已大幅上涨。公司营收和净利润波动性大，且自由现金流持续为负，财务健康状况令人担忧。短期巨大涨幅可能反映过度炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年股价略有下跌，不属于巨大涨幅。近1个月股价波动但无明显持续下跌。公司营收和净利润保持相对稳定，但自由现金流连续几年为负，值得关注。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近1个月呈现明显下跌走势，未能企稳。公司营收和净利润波动性较大，且自由现金流呈现下降趋势，短期股价表现不佳。"
+    }
+  }
+]
