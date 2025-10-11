@@ -1,0 +1,110 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "近半年涨幅高达130.3%，且从近期高点（9月29日）下跌约14%，显示出泡沫风险和短期回调压力。部分财务数据不完整，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "近半年涨幅高达100.2%，且从9月23日高点下跌约13.6%，显示出泡沫风险和短期回调压力。部分财务数据不完整，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价从9月11日高点下跌约16.7%，显示出明显的下跌趋势。近半年累计涨幅约54%，需警惕估值风险。部分财务数据不完整，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价波动较小，无明显下跌或巨大涨幅，表现相对稳定。财务数据基本完整，但部分细项缺失，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价从9月16日高点下跌约17.7%，存在明显的下跌趋势。近半年累计涨幅约80.4%，需警惕估值风险。部分财务数据不完整，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "002064",
+    "name": "",
+    "analysis_result": {
+      "code": "002064",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价无明显下跌或巨大涨幅。2023年部分关键财务数据缺失（如长期债务、投资相关科目），数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价无明显下跌或巨大涨幅。多项关键财务细项（如投资明细、现金构成）缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近半年股价波动极小，无明显下跌或巨大涨幅。多项关键财务细项（如库存构成、现金构成）缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大接近泡沫",
+      "analysis": "近半年涨幅高达97.2%，且从八月高点下跌约25.2%，存在明显的泡沫风险及近期回调压力。多项关键财务数据缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "002734",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
