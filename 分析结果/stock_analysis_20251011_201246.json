@@ -1,0 +1,104 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从近期高点（9月23日66.64元）显著下跌18.7%至54.15元，且最近数个交易日呈现清晰的下跌趋势，未见企稳迹象，因此建议排除。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价从17.61元大幅上涨至66.41元，涨幅高达277.1%，属于非常巨大的涨幅，存在明显的炒作和潜在泡沫风险，因此建议排除。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年内涨幅超过130%，但近期（过去一个月内从9月29日99.15元高点）已出现14.0%的明显下跌，且最近数个交易日跌势持续，未有企稳迹象，因此建议排除。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价从12.43元上涨至24.51元，涨幅接近100%，已经历非常巨大的涨幅，尽管近期有所回调，但如此快速的上涨仍表明估值可能过高，存在潜在泡沫风险，因此建议排除。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价上涨约42.5%，涨幅属于温和范围，未达到巨大涨幅标准。尽管近期从高点有小幅回调，但未形成清晰、持续的下跌趋势，也无明显泡沫风险，因此不建议排除。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价上涨约11.6%，涨幅温和，未达到巨大涨幅标准。近期虽在最后一个交易日出现较大跌幅，但整体趋势未呈现持续下跌，也无泡沫风险，因此不建议排除。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
