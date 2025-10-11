@@ -1,0 +1,135 @@
+[
+  {
+    "code": "300207",
+    "name": "",
+    "analysis_result": {
+      "code": "300207",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约17.72元上涨至约31.38元，涨幅高达77%，存在短期内涨幅巨大导致估值过高或炒作泡沫的风险。过去一个月股价虽然有波动，但总体呈上涨趋势，未出现明显下跌。"
+    }
+  },
+  {
+    "code": "600111",
+    "name": "",
+    "analysis_result": {
+      "code": "600111",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约24.91元上涨至约52.48元，涨幅超过110%，存在短期内涨幅巨大导致估值过高或炒作泡沫的风险。过去一个月股价虽然有波动，但总体呈上涨趋势，未出现明显下跌。"
+    }
+  },
+  {
+    "code": "603388",
+    "name": "",
+    "analysis_result": {
+      "code": "603388",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去一个月股价从约1.85元下跌至约1.65元，跌幅近11%，显示出清晰、持续的下跌趋势，没有企稳迹象。过去半年股价整体下跌，不存在炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约27.05元上涨至约54.15元，涨幅接近100%，存在短期内涨幅巨大导致估值过高或炒作泡沫的风险。过去一个月股价从56.76元小幅下跌至54.15元，显示出一定程度的调整。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约17.61元上涨至约66.41元，涨幅高达277%，存在严重的短期内涨幅巨大导致估值过高或炒作泡沫的风险。过去一个月股价虽然有波动，但总体呈上涨趋势，未出现明显下跌。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约12.43元上涨至约24.51元，涨幅超过97%，存在短期内涨幅巨大导致估值过高或炒作泡沫的风险。过去一个月股价从26.95元下跌至24.51元，跌幅超过9%，显示出一定的下跌趋势。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约16.17元上涨至约67.73元，涨幅高达319%，存在严重的短期内涨幅巨大导致估值过高或炒作泡沫的风险。过去一个月股价虽然有波动，但总体持平，未出现明显下跌。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去一个月股价从约10.80元下跌至约10.14元，跌幅超过6%，显示出明显的下跌趋势，没有企稳迹象。过去半年股价整体下跌，不存在炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
