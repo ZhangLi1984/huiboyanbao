@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去半年股价涨幅巨大，但近期（最近一个月内）股价从高点70.87元下跌至59.72元，跌幅超过15%，呈现明显下跌趋势，没有企稳迹象，存在短期回调风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去半年股价上涨66%，但近期（最近一个月内）股价从高点62.68元下跌至47.47元，跌幅超过24%，呈现清晰、持续的下跌趋势，无企稳迹象，存在短期回调风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价波动较小，无明显上涨或下跌趋势。财务数据整体完整，可用于进一步分析。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去半年股价上涨67.6%，但近期（最近一个月内）股价从高点304.79元下跌至248.5元，跌幅超过18%，呈现清晰、持续的下跌趋势，无企稳迹象，存在短期回调风险。现金流量表中部分债务还款与发行数据缺失，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价上涨高达290%，估值可能过高，存在泡沫风险。近期虽有小幅回调，但相对于整体涨幅而言并不显著。财务数据部分项目缺失，但总体框架完整，建议用户重点关注股价泡沫风险。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价涨幅不大，近期股价波动，但无清晰、持续的下跌趋势。然而，该股票的关键财务数据（如部分债务和存货明细）严重缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "603001",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "过去半年股价波动极小，无明显上涨或下跌趋势。财务数据虽有部分项目缺失，但总体不影响对主要财务状况的评估，可用于进一步分析。"
+    }
+  }
+]
