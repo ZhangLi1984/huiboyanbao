@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从9月下旬的66.64元跌至10月中旬的47.48元）呈现出清晰、持续的下跌趋势，且没有企稳迹象。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从9月下旬的最高100.66元跌至10月中旬的78.56元）呈现出清晰、持续的下跌趋势，且没有企稳迹象。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从9月中旬的116.52元跌至10月中旬的96.00元）呈现出清晰、持续的下跌趋势，且没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从9月下旬的最高33.51元跌至10月中旬的29.78元）呈现出清晰、持续的下跌趋势，且没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在近期（最近一个月）和过去半年内未显示出明显的下跌走势或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在近期（最近一个月内有涨有跌，未形成清晰的持续下跌趋势）和过去半年内未显示出巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在近期（从9月中旬的57.46元小幅跌至10月中旬的53.95元）跌幅相对有限，未形成清晰的持续下跌趋势，且过去半年内也无巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从9月中旬的最高290.32元跌至10月中旬的248.50元）呈现出清晰、持续的下跌趋势，且没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002846",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
