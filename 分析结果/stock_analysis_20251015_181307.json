@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月（从9月中旬高点66.64元至10月15日的49.17元）下跌幅度达26.2%，表现出清晰、持续的下跌趋势，且没有明确企稳迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年（从4月15日的17.75元至10月15日的63.38元）涨幅高达257%，存在非常巨大的涨幅，估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在近期（过去1个月）无明显下跌走势，过去半年涨幅（约3.1%）也未达到巨大水平，不符合任何排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月（从9月中旬高点28.68元至10月15日的23.82元）下跌幅度达16.9%，表现出清晰、持续的下跌趋势，无明显企稳迹象。财务数据虽有个别缺失，但未达严重缺失程度，不影响基于股价走势的排除判断。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年（从4月15日的17.01元至10月15日的31.02元）涨幅高达82.4%，存在非常巨大的涨幅，估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在近期（过去1个月）无明显下跌走势，过去半年涨幅（约16.6%）也未达到巨大水平，不符合任何排除标准。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "",
+    "analysis_result": {
+      "code": "601339",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在近期（过去1个月）无明显下跌走势，过去半年涨幅（约17.8%）也未达到巨大水平，不符合任何排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年价格大幅下跌（约-70.9%），不符合“涨幅巨大，炒作接近泡沫”的排除标准，近期也无明显持续下跌趋势。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
