@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从高点（9月22日的63.45元）经历显著下跌，至10月14日触及47.48元低点，跌幅约25%，尽管近期略有反弹，但整体下跌趋势明显且未见明确企稳迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从4月15日的约17.75元飙升至10月15日的约63.38元，涨幅高达257%，价格表现出巨大涨幅，存在较高的估值泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去一个月和半年内股价波动平稳，涨幅不显著，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（如部分利润表、资产负债表和现金流量表项目）存在严重缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（如部分利润表、资产负债表和现金流量表项目）存在严重缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（如部分利润表、资产负债表和现金流量表项目）存在严重缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（如部分利润表、资产负债表和现金流量表项目）存在严重缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（如部分资产负债表和现金流量表项目）存在严重缺失，数据不完整，建议用户自行核实相关财务报表。"
+    }
+  }
+]
