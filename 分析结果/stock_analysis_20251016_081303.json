@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年经历巨大涨幅后，近期（过去一个月）表现出清晰、持续的下跌趋势，跌幅约9.5%，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年经历了非常巨大的涨幅（约164%），虽然近期有所回调，但估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在过去半年有显著上涨（约56.5%），但未达到明显泡沫化程度，近期走势有所波动但无持续下跌趋势。"
+    }
+  },
+  {
+    "code": "002180",
+    "name": "",
+    "analysis_result": {
+      "code": "002180",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年经历了巨大涨幅（约140%），虽然近期有所回调，但仍存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年经历了非常巨大的涨幅（约200%），虽然近期有所回调，但估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "300127",
+    "name": "",
+    "analysis_result": {
+      "code": "300127",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年有显著上涨（约85.8%），尤其在近期出现价格跳升后急剧回调，可能存在炒作和泡沫风险，并存在数日零交易量异常情况，建议用户核实。"
+    }
+  },
+  {
+    "code": "600733",
+    "name": "",
+    "analysis_result": {
+      "code": "600733",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月表现出清晰、持续的下跌趋势，跌幅约9.4%，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "603199",
+    "name": "",
+    "analysis_result": {
+      "code": "603199",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月表现出清晰、持续的下跌趋势，跌幅超过10%，没有企稳迹象。同时，其在过去半年内也经历了巨大涨幅。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年经历了巨大涨幅（接近90%），近期虽然有急剧回调，但整体估值可能过高，存在炒作风险。"
+    }
+  }
+]
