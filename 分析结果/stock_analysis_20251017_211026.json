@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在最近一个月内（2025-09-12至2025-10-17）价格下跌超过16%，且近期走势无明显企稳迹象，存在持续下跌风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票在过去半年内（2025-04-17至2025-09-23）股价最高涨幅超过330%，即使近期有所回调，其巨大涨幅和潜在的泡沫风险依然显著。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在最近一个月内（2025-09-17至2025-10-17）价格下跌超过7%，且近期走势无明显企稳迹象。同时，过去半年内股价涨幅巨大，存在潜在的估值风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在最近一个月内（2025-09-17至2025-10-17）价格下跌超过17%，且近期走势无明显企稳迹象。此外，过去半年内股价涨幅巨大，存在潜在的估值风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在最近一个月内（2025-09-17至2025-10-17）价格下跌超过8%，且近期走势无明显企稳迹象，存在持续下跌风险。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在最近一个月内（2025-09-17至2025-10-17）价格下跌超过8%，且近期走势无明显企稳迹象，存在持续下跌风险。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票在最近一个月内（2025-09-17至2025-10-17）价格下跌超过8%，且近期走势无明显企稳迹象，存在持续下跌风险。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票在最近一个月内价格波动相对平稳，未出现明显下跌趋势。过去半年内涨幅也未达到巨大程度，财务数据完整。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票近期价格走势相对平稳，未出现明显下跌或巨大涨幅。过去半年股价有温和上涨，财务数据完整。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
