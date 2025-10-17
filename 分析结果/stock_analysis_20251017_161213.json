@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "601138",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅高达257%，显示出非常巨大的涨幅，可能存在估值过高和泡沫风险，建议排除。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "002938",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从高点下跌超过25%，呈现出清晰、持续的下跌趋势，且没有企稳迹象，建议排除。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "002859",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅接近79%，涨幅巨大，可能存在估值过高和炒作泡沫风险，建议排除。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "600309",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年股价表现平稳，涨幅约13.5%，近期虽有小幅回调但未形成清晰、持续的下跌趋势，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "002648",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年股价涨幅温和，约为17.2%，近期虽有回调但未形成清晰、持续的下跌趋势，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "600519",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年股价略有下跌，近期波动不大，未出现明显下跌走势或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "002991",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年股价有明显下跌，但近期波动不大，未形成清晰、持续的下跌趋势，也不存在巨大涨幅导致的泡沫风险，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002415",
+    "name": "",
+    "analysis_result": {
+      "code": "002415",
+      "name": "002415",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年股价呈现温和上涨，近期没有出现明显下跌走势，也不存在巨大涨幅导致的泡沫风险，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "603129",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从高点下跌近20%，呈现出清晰、持续的下跌趋势，且没有企稳迹象，建议排除。"
+    }
+  }
+]
