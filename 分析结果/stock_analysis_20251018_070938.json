@@ -1,0 +1,97 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月呈现明显下跌走势，从9月23日的62.68元跌至10月17日的46.75元，跌幅超过25%，且未出现明确企稳迹象，符合近期明显下跌走势的排除标准。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去五个月内涨幅超过200%（从4月中旬的19.17元上涨至10月17日的60.01元），估值可能过高，存在巨大的泡沫风险，符合涨幅巨大接近泡沫的排除标准。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价波动较小，涨幅不足2%，近期虽有小幅回调，但未构成清晰、持续的明显下跌走势，也无泡沫化迹象。财务数据完整，建议持续关注。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内股价从9月17日的26.82元持续下跌至10月17日的22.15元，跌幅达17.4%，且没有企稳迹象，符合近期明显下跌走势的排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从9月17日的290.32元持续下跌至10月17日的233.09元，跌幅近20%，且未出现明确企稳迹象，符合近期明显下跌走势的排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一周内股价从10月9日的34.52元持续下跌至10月17日的27.82元，跌幅近20%，且未出现明确企稳迹象，符合近期明显下跌走势的排除标准。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内涨幅温和（约27%），近期股价虽有小幅回调（过去一月下跌约3.3%），但未形成清晰、持续的明显下跌走势，也无泡沫化迹象。财务数据完整，建议持续关注。"
+    }
+  }
+]
