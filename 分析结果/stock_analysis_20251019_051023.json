@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内经历了超过250%的巨大涨幅，尽管近期有所回调，但整体估值可能过高，存在泡沫风险，建议排除在观察列表外。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内价格出现清晰、持续的下跌趋势，从9月下旬的60多元跌至目前的40多元，没有明显的企稳迹象，建议排除在观察列表外。"
+    }
+  },
+  {
+    "code": "002270",
+    "name": "",
+    "analysis_result": {
+      "code": "002270",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内呈现稳健上涨，近期虽有波动但无明显下跌趋势，也未见过度炒作的泡沫迹象，可继续保持观察。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内呈现明显下跌趋势，从9月中旬的70多元跌至目前的60多元，短期内未显示出企稳迹象，建议排除在观察列表外。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内表现出明显的下跌趋势，从9月中旬的67元跌至目前的61元左右，短期内没有企稳迹象，建议排除在观察列表外。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内，尤其是在最近两周，呈现出明显的下跌趋势，从6.42元跌至6.09元，未显示出企稳迹象，建议排除在观察列表外。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内走势平稳，略有回调，近期虽有波动但未出现明显下跌趋势或过度炒作的泡沫风险，可继续保持观察。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去六个月内温和上涨，近期价格波动不大，未出现明显下跌趋势或过度炒作的泡沫风险，可继续保持观察。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
