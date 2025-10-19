@@ -1,0 +1,112 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约16.89元飙升至10月份高点70.87元附近，涨幅超过300%，随后出现明显回调。这种极端的短期涨幅表明其价格可能已脱离基本面，存在估值过高和泡沫破裂的风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）表现出清晰、持续的下跌趋势，从9月下旬的63.45元高点跌至10月17日的46.75元，跌幅显著且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）价格呈现清晰、持续的下跌趋势，从9月下旬的75.10元跌至10月17日的66.00元，跌幅明显且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）表现出清晰、持续的下跌趋势，从9月中旬的67.01元跌至10月17日的61.51元，跌幅明显且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）价格持续下跌，从9月下旬的27.86元高点跌至10月17日的22.15元，跌幅显著且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）价格持续下跌，从10月上旬的34.52元高点跌至10月17日的27.82元，跌幅显著且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内价格表现相对稳定，近期虽有小幅波动，但未形成清晰、持续的下跌趋势，也未出现巨大涨幅带来的泡沫风险。财务数据完整。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内价格波动幅度较小，近期未呈现明显持续下跌或巨大涨幅，不符合排除标准。财务数据完整。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内价格保持高度稳定，未出现明显下跌或巨大涨幅，不符合排除标准。财务数据完整。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）价格持续下跌，从9月下旬的33.51元高点跌至10月17日的29.96元，跌幅显著且未见企稳迹象。"
+    }
+  }
+]
