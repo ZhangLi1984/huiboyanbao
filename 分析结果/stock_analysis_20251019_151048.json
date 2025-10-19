@@ -1,0 +1,97 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "过去半年股价涨幅较大，但近期（特别是最近一个月）表现出清晰、持续的下跌趋势，从高位回落，缺乏企稳迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅超过250%，存在明显的泡沫化风险，近期股价虽有波动但整体仍处于高位，投资者应警惕炒作风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价走势平稳，近半年涨幅不明显，未发现明显的下跌趋势或泡沫风险。"
+    }
+  },
+  {
+    "code": "002920",
+    "name": "",
+    "analysis_result": {
+      "code": "002920",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在近期（特别是最近一个月）呈现出明显的下跌趋势，从高点持续回落，缺乏企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在近期（特别是最近一个月）表现出清晰、持续的下跌趋势，从高点回落，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603308",
+    "name": "",
+    "analysis_result": {
+      "code": "603308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价涨幅接近100%，存在一定的泡沫化风险，投资者应警惕炒作风险。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价走势平稳，近半年涨幅不明显，未发现明显的下跌趋势或泡沫风险。"
+    }
+  }
+]
