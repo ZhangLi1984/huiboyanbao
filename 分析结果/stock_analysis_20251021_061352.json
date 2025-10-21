@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从约17.47元上涨至约67.60元，涨幅高达287%，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价从约62.68元下跌至约51.55元，跌幅约17.7%，呈现清晰且持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价波动不大，未显示明显下跌或巨大涨幅。财务数据显示营收持续增长，净利润在2023年有大幅下滑后于2024年有所回升，2024年自由现金流表现强劲，但仍需关注盈利能力持续性。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价从约27.32元下跌至约23.16元，跌幅约15%，呈现清晰且持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内股价从约57.93元下跌至约47.47元，跌幅约18%，呈现清晰且持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价波动不大，未显示明显下跌或巨大涨幅。财务数据显示营收、净利润和EPS均持续强劲增长，但2024年自由现金流转为负值，需要密切关注。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价波动不大，未显示明显下跌或巨大涨幅。财务数据显示营收、净利润和EPS均持续强劲增长，但自由现金流呈下降趋势，需要关注其资金运用效率。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价波动不大，未显示明显下跌或巨大涨幅。财务数据显示营收和净利润在波动中保持增长态势，自由现金流在2021年为负后，近三年持续为正，整体表现尚可。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价波动不大，未显示明显下跌或巨大涨幅。财务数据显示营收、净利润和EPS在波动中保持增长态势，自由现金流在2021年为负后，近三年持续为正，整体表现尚可。"
+    }
+  }
+]
