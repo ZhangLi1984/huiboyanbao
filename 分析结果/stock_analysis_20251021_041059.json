@@ -1,0 +1,117 @@
+[
+  {
+    "code": "300180",
+    "name": "进入特斯拉人形机器人产品的供应链",
+    "analysis_result": {
+      "code": "300180",
+      "name": "进入特斯拉人形机器人产品的供应链",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近一个月股价呈现区间震荡，半年内无巨大涨幅。公司财务数据在2022-2023年出现亏损，2024年恢复盈利，自由现金流大幅改善，但净利润仍显波动。"
+    }
+  },
+  {
+    "code": "002747",
+    "name": "等成立鼎汇具身智能机器人创新中心",
+    "analysis_result": {
+      "code": "002747",
+      "name": "等成立鼎汇具身智能机器人创新中心",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价呈现持续下跌趋势。公司2024年出现巨额亏损，自由现金流持续为负且不断恶化，有形账面价值转为负值，显示基本面恶化。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近一个月股价出现明显、持续下跌。过去半年股价经历巨大涨幅，可能存在泡沫风险。公司关键财务数据（净债务）严重缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价持续下跌，没有明显企稳迹象。尽管营收规模庞大且稳定增长，但公司净利润呈下降趋势，近两年自由现金流持续为负且大幅恶化，净债务水平不断攀升，基本面面临较大压力。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价呈现下跌趋势，没有明显企稳迹象。尽管公司财务表现良好，营收和净利润稳健增长，自由现金流充裕，但短期股价走势构成排除理由。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "301489",
+    "name": "",
+    "analysis_result": {
+      "code": "301489",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近一个月股价出现明显、持续下跌。过去半年股价经历近6倍的巨大涨幅，估值可能过高，存在泡沫风险。公司关键财务数据（净债务）严重缺失，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价累计涨幅超过30%并触及50%以上峰值，虽然财务基本面表现良好，但短期内积累的巨大涨幅可能使估值过高，存在泡沫风险。部分年份的关键财务数据（净债务）存在缺失，建议用户自行核实。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价呈现明显、持续的下跌趋势，没有企稳迹象。尽管公司营收和净利润保持增长，但自由现金流持续为负且处于高位，净债务水平也在不断上升，基本面存在隐忧。"
+    }
+  },
+  {
+    "code": "000915",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
