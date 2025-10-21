@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月21日收盘价17.46元至2025年10月21日收盘价68.00元）累计涨幅高达289%，股价大幅上涨，存在过度炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从2025年9月23日收盘价62.68元至2025年10月21日收盘价51.95元）价格跌幅超过17%，呈现出清晰、持续的下跌趋势，且缺乏明显的企稳迹象，存在短期风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价走势相对平稳，在过去一个月和过去半年内均未出现明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价虽有波动，但未形成明显持续下跌趋势。过去半年涨幅约66%，虽然可观但尚未达到需要因过度炒作或泡沫风险而排除的程度。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价走势平稳，在过去半年内价格略有下跌约3.8%，不符合近期明显下跌或涨幅巨大导致泡沫的排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从2025年9月23日收盘价270.50元至2025年10月21日收盘价240.22元）价格跌幅约11%，呈现出清晰、持续的下跌趋势，且缺乏明显的企稳迹象，存在短期风险。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月21日收盘价17.60元至2025年10月21日收盘价32.20元）累计涨幅高达82.9%，股价表现强劲，存在潜在的估值过高和炒作风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
