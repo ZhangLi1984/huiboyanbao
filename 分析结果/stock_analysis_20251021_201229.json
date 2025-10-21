@@ -1,0 +1,90 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅超过260%，存在明显的泡沫风险和炒作迹象。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅超过80%，估值可能过高。近期股价出现明显下跌，预示着潜在的泡沫风险正在释放。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月（20个交易日）内价格下跌超过8%，呈现明显下跌趋势，不符合观察列表的筛选标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格波动幅度不大（过去一个月下跌约2.8%），且过去半年未出现大幅涨跌，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳（过去一个月上涨约1.4%），且过去半年未出现大幅涨跌，符合观察列表的筛选标准。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳（过去一个月上涨约0.16%），且过去半年未出现大幅涨跌，不符合排除标准。"
+    }
+  },
+  {
+    "code": "300972",
+    "name": "",
+    "analysis_result": {
+      "code": "300972",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格呈现上涨趋势（过去一个月上涨约15.5%），过去半年虽有上涨（约28.6%）但未达到极端炒作的程度，符合观察列表的筛选标准。"
+    }
+  },
+  {
+    "code": "000895",
+    "name": "",
+    "analysis_result": {
+      "code": "000895",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳（过去一个月上涨约1.56%），且过去半年未出现大幅涨跌，不符合排除标准。"
+    }
+  }
+]
