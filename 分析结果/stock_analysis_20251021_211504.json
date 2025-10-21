@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约18.6元飙升至最高约70.87元，涨幅超过260%，显示出巨大的短期涨幅，估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从9月23日约62.68元至10月17日低点46.75元）经历了超过25%的显著下跌，尽管近期有所反弹，但整体仍处于明显下跌趋势中，未完全企稳。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从9月23日约27.32元至10月17日低点22.15元）下跌约19%，呈现清晰的下跌趋势，尽管有小幅反弹，但未见明显企稳迹象。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从9月25日高点约64.19元至10月17日低点51.97元）下跌超过19%，表现出明显的下跌趋势，尽管近期有所反弹，但未完全企稳。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（从10月9日高点约67.73元至10月20日低点60.86元）下跌超过10%，呈现清晰的下跌趋势，近期的小幅反弹不足以视为明确企稳。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内未出现巨大涨幅，且近期价格波动不大，主要呈现窄幅震荡，没有明显的下跌或炒作风险。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内未出现巨大涨幅，且近期价格波动不大，主要呈现窄幅震荡，没有明显的下跌或炒作风险。"
+    }
+  }
+]
