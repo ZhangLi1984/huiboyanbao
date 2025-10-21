@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内价格从高点约66.64元下跌至当前约51.96元，跌幅超过20%，显示出明显且持续的下行趋势，暂无企稳迹象。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在近期和过去半年内价格波动相对平稳，未出现明显的下跌趋势或巨大的涨幅。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内价格从高点约304.8元下跌至当前约240.23元，跌幅超过20%，显示出明显且持续的下行趋势，暂无企稳迹象。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内价格从高点约100.66元下跌至当前约82.78元，跌幅超过15%，显示出明显且持续的下行趋势，暂无企稳迹象。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内价格从高点约34.79元下跌至当前约27.81元，跌幅超过20%，显示出明显且持续的下行趋势，暂无企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002064",
+    "name": "",
+    "analysis_result": {
+      "code": "002064",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在近期和过去半年内价格波动相对平稳，未出现明显的下跌趋势或巨大的涨幅。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个半月内价格从高点约38.5元下跌至当前约32.09元，跌幅约16.6%，显示出明显且持续的下行趋势，暂无企稳迹象。"
+    }
+  },
+  {
+    "code": "603067",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内价格从高点约99.86元下跌至当前约77.33元，跌幅超过20%，显示出明显且持续的下行趋势，暂无企稳迹象。"
+    }
+  }
+]
