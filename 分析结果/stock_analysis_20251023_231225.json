@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月，2025-09-23至2025-10-23）价格从62.68元跌至50.03元，跌幅达19.9%，呈现明显且持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月，2025-09-23至2025-10-23）价格从70.87元跌至63.99元，跌幅达9.7%，呈现明显下跌走势，同时过去半年涨幅最高曾达317.7%，存在巨大泡沫风险。"
+    }
+  },
+  {
+    "code": "000895",
+    "name": "",
+    "analysis_result": {
+      "code": "000895",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期和近半年价格走势相对平稳，未出现明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近半年涨幅一度超过110%（从2025-04-23的17.91元涨至2025-07-31的37.90元），并在高位出现回调，存在巨大炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002212",
+    "name": "",
+    "analysis_result": {
+      "code": "002212",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近半年涨幅一度高达77.2%（从2025-04-23的7.33元涨至2025-08-28的12.99元），在经历高位大幅回调后，仍存在炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月，2025-09-23至2025-10-23）价格从34.14元跌至31.43元，跌幅达7.9%，呈现明显下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月，2025-09-23至2025-10-23）价格从29.88元跌至27.08元，跌幅达9.4%，呈现明显下跌走势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603806",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
