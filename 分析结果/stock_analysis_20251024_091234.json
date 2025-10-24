@@ -1,0 +1,104 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（2025年4月至10月）价格从约17.58元飙升至约67.25元，涨幅超过280%，存在明显的泡沫风险和过度炒作迹象。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内（2025年9月24日至10月24日）价格从约60.22元下跌至约52.84元，跌幅超过12%，表现出清晰的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（2025年4月至10月）价格从约80.92元飙升至约494.0元，涨幅超过500%，存在极高的泡沫风险和过度炒作迹象。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（2025年4月至10月）价格从约236.01元上涨至约385.77元，涨幅超过63%，存在较大的泡沫风险和炒作迹象。"
+    }
+  },
+  {
+    "code": "603993",
+    "name": "",
+    "analysis_result": {
+      "code": "603993",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内有约14.77%的涨幅，最近一个月涨幅约32.96%，未达到显著下跌或巨大泡沫化炒作的排除标准。部分财务报表数据存在不完整情况（如部分年份的直接法现金流量表细项和资产负债表部分子项缺失），建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000915",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "301053",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票的财务报表数据存在多处不完整情况（如部分年份的直接法现金流量表、利润表中的部分经营费用细项以及资产负债表的部分资产负债细项缺失或不一致）。价格走势未达到显著下跌或巨大泡沫化炒作的排除标准。建议用户自行核实相关财务报表。"
+    }
+  }
+]
