@@ -1,0 +1,112 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内涨幅超过100%，历史高点附近波动剧烈，目前估值存在泡沫风险，需警惕回调。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内涨幅近60%，从9月初的历史高点大幅回落约24%，但整体涨幅依然巨大，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从9月底的高位下跌超过20%，近期虽有反弹但尚未企稳，显示明显的下跌走势。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内涨幅超过280%，从9月底的历史高点回落约20%，但整体涨幅巨大，存在严重的泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从9月底的高位下跌超过20%，近期虽有小幅反弹但尚未企稳，显示明显的下跌走势。"
+    }
+  },
+  {
+    "code": "300232",
+    "name": "",
+    "analysis_result": {
+      "code": "300232",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从9月高位下跌近19%，近期价格虽有反弹但尚未完全企稳，显示明显的下跌走势。"
+    }
+  },
+  {
+    "code": "603005",
+    "name": "",
+    "analysis_result": {
+      "code": "603005",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从10月初高位下跌近17.5%，近期价格虽有反弹但尚未企稳，显示明显的下跌走势。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从10月初高位大幅下跌逾23%，近期价格虽有反弹但尚未企稳，显示明显的下跌走势。"
+    }
+  },
+  {
+    "code": "603117",
+    "name": "",
+    "analysis_result": {
+      "code": "603117",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个半月内从9月初高位下跌逾13%，近期价格虽有小幅反弹但整体呈下跌趋势，显示明显的下跌走势。"
+    }
+  },
+  {
+    "code": "603993",
+    "name": "",
+    "analysis_result": {
+      "code": "603993",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内涨幅超过145%，近期虽有波动但整体呈强劲上涨趋势，存在巨大的泡沫风险和估值过高问题。"
+    }
+  }
+]
