@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从约17.58元飙升至约67.25元，涨幅超过280%，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价走势平稳，近六个月涨幅约为5.2%，未满足观察列表的排除标准。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从约28.29元上涨至约52.84元，涨幅超过86.8%，存在涨幅巨大和炒作接近泡沫的风险。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内股价从约62.10元下跌至约54.60元，跌幅超过12%，表现出明显的下跌趋势。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内股价从约269.00元下跌至约243.00元，跌幅约9.7%，表现出明显的下跌趋势。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从约17.76元上涨至约32.41元，涨幅超过82.5%，存在涨幅巨大和炒作接近泡沫的风险。"
+    }
+  },
+  {
+    "code": "603486",
+    "name": "",
+    "analysis_result": {
+      "code": "603486",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内股价从约104.08元下跌至约91.16元，跌幅约12.4%，表现出明显的下跌趋势。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "603993",
+    "name": "",
+    "analysis_result": {
+      "code": "603993",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "数据不完整，建议用户自行核实相关财务报表。"
+    }
+  }
+]
