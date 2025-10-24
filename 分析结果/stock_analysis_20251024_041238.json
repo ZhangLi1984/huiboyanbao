@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约2025年4月24日的17.57元飙升至2025年10月24日的66.44元，涨幅高达377%，存在明显的泡沫风险。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约2025年4月24日的80.92元飙升至2025年10月24日的470.0元，涨幅高达481%，存在极高的泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价呈现明显下跌趋势，从2025年10月13日的约66.35元下跌至2025年10月24日的61.31元，跌幅约7.6%，且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约2025年4月24日的28.28元上涨至2025年10月24日的52.46元，涨幅约85.5%，存在巨大涨幅和潜在泡沫风险。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约2025年4月24日的38.62元飙升至2025年10月24日的80.04元，涨幅超过100%，存在巨大涨幅和潜在泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002030",
+    "name": "",
+    "analysis_result": {
+      "code": "002030",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近半年股价涨幅约16.6% (从2025年4月24日的5.52元至2025年10月24日的6.44元)，无明显下跌走势，也无巨大涨幅风险。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价呈现明显下跌趋势，从2025年9月24日的约31.0元下跌至2025年10月24日的27.06元，跌幅约12.7%，且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002457",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价呈现明显下跌趋势，从2025年10月10日的约88.99元下跌至2025年10月24日的78.61元，跌幅约11.7%，未见明显企稳回升迹象。"
+    }
+  }
+]
