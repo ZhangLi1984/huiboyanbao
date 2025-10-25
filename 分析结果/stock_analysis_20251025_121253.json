@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价下跌超过12%，且在过去半年内涨幅巨大（超过86%），显示出高位回调的风险，不适宜纳入观察列表。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去六个月内股价涨幅高达282.75%，估值可能过高，存在严重的泡沫风险，应予排除。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去六个月内股价涨幅高达82.53%，存在较高的泡沫风险，应予排除。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价下跌超过11%，且过去半年涨幅已达50%以上，显示出高位回调的风险，不适宜纳入观察列表。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动不大，六个月内涨幅有限，未达到排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价下跌超过11%，趋势明显，不适宜纳入观察列表。"
+    }
+  },
+  {
+    "code": "603087",
+    "name": "",
+    "analysis_result": {
+      "code": "603087",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价下跌超过13%，且过去半年涨幅已达50%以上，显示出高位回调的风险，不适宜纳入观察列表。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价相对稳定，六个月内股价略有下跌，未达到排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动平稳，六个月内股价略有下跌，未达到排除标准。"
+    }
+  }
+]
