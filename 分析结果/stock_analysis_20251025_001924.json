@@ -1,0 +1,106 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约38.62元上涨至约99.15元，涨幅超过150%，属于涨幅巨大。近期股价已从高位明显下跌约21.7%至约77.5元，显示出清晰的回调趋势，可能存在估值过高和泡沫破裂的风险。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约68.14元上涨至约147.66元，涨幅超过116%，属于涨幅巨大。近期股价已从高位明显下跌约16%，虽有波动反弹但未企稳，鉴于前期巨大涨幅，存在估值过高和泡沫风险。部分财务数据（如资产负债表中的Goodwill、Buildings And Improvements及现金流量表中的Sale Of PPE、Capital Expenditure Reported等）不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "数据不完整，特别是现金流量表有多项关键数据（如Capital Expenditure Reported、Net Other Investing Changes、Issuance Of Capital Stock等）严重缺失，资产负债表（Total Debt、Net Debt、Goodwill等）也存在多项缺失值，建议用户自行核实相关财务报表。股价在过去半年内有显著上涨超过120%，近期经历了一段大幅回调。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约17.58元上涨至约70.87元，涨幅超过300%，属于涨幅巨大。近期股价已从高位明显下跌约15.7%，显示出清晰的回调趋势，估值可能过高，存在泡沫风险。部分财务数据不完整，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "数据不完整，资产负债表和现金流量表有多项关键数据严重缺失（例如Capital Lease Obligations、Goodwill、Inventories Adjustments Allowances等在多期缺失；现金流量表多项流入流出项缺失），建议用户自行核实相关财务报表。股价在过去半年内有显著上涨约55.5%，但近期已从高点下跌约23%，走势显示回调。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "数据不完整，资产负债表和现金流量表有多项关键数据严重缺失（例如Net Debt、Goodwill、Dividends Payable等缺失；现金流量表多项直接法项目及Issuance Of Capital Stock等缺失），建议用户自行核实相关财务报表。股价在过去半年内有一定涨幅，近期出现明显下跌约20%。"
+    }
+  },
+  {
+    "code": "603486",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603993",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300130",
+    "name": "",
+    "analysis_result": {
+      "code": "300130",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "数据不完整，资产负债表和现金流量表有多项关键数据严重缺失（例如Net Debt、Capital Lease Obligations、Dividends Payable等缺失；现金流量表多项直接法项目及Issuance Of Debt、Repayment Of Debt等缺失），建议用户自行核实相关财务报表。股价在过去半年内有显著上涨，但近期已从高点下跌约28%，目前走势趋于平稳。"
+    }
+  }
+]
