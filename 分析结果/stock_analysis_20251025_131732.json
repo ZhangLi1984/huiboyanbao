@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约17.58元上涨至约67.25元，涨幅超过280%，属于短期内涨幅巨大，存在显著泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价虽有回调，但近期已显示出企稳迹象。近半年股价从约28.29元上涨至约52.84元，涨幅约86%，虽有较大涨幅，但尚未达到过度泡沫化的程度，暂不排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近1个月股价从约99.15元下跌至约81.02元，跌幅超过18%，且未见明确企稳迹象，存在短期风险。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近1个月股价从约275.04元下跌至约242.99元，跌幅约11.7%，虽有短暂反弹但整体下跌趋势未改，未见明确企稳迹象，存在短期风险。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约14.93元上涨至约67.38元，涨幅超过350%，属于短期内涨幅巨大，存在显著泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价在15-17元区间震荡，未出现明显下跌趋势。近半年股价从约10.35元上涨至约15.27元，涨幅约47.5%，涨幅适中，未见泡沫化风险，暂不排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价在1400-1500元区间震荡，未出现明显下跌趋势。近半年股价从约1522.33元下跌至约1450.00元，跌幅约4.7%，无巨大涨幅，未见泡沫化风险，暂不排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近1个月股价在39-42元区间窄幅震荡，未出现明显下跌趋势。近半年股价从约33.70元上涨至约40.21元，涨幅约19.3%，涨幅温和，未见泡沫化风险，暂不排除在观察列表之外。"
+    }
+  }
+]
