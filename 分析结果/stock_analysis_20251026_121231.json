@@ -1,0 +1,108 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约38.62元上涨至最高约100.66元，涨幅超过160%，当前价格81.02元，仍有超过109%的涨幅，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约28.28元上涨至最高约66.63元，涨幅超过135%，当前价格52.84元，仍有约87%的涨幅，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从9月24日的约25.35元下跌至10月17日的约22.14元，当前价格22.52元，月内跌幅超过11%，且未能有效企稳，下跌走势明显。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从10月初的约36.18元下跌至10月23日的约31.43元，当前价格32.09元，跌幅超过13%，未能有效企稳，下跌走势明显。"
+    }
+  },
+  {
+    "code": "002064",
+    "name": "",
+    "analysis_result": {
+      "code": "002064",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年涨幅约33%，近期价格波动不大，未显示明显下跌趋势，也未出现巨大涨幅及泡沫化迹象。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约160.33元上涨至最高约304.79元，涨幅超过90%，当前价格242.99元，仍有约51%的涨幅，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002734",
+    "name": "",
+    "analysis_result": {
+      "code": "002734",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从10月13日的约20.79元下跌至10月23日的约17.73元，当前价格18.18元，跌幅超过14%，未能有效企稳，下跌走势明显。"
+    }
+  },
+  {
+    "code": "002549",
+    "name": "",
+    "analysis_result": {
+      "code": "002549",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约9.31元上涨至最高约30.0元，涨幅超过222%，当前价格24.53元，仍有约163%的涨幅，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
