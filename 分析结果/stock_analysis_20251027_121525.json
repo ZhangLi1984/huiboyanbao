@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股在过去半年内股价涨幅巨大，接近100%，需警惕估值过高及潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股在过去半年内股价涨幅超过300%，远超其基本面增长速度，存在严重的泡沫风险，应予排除。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股在过去半年内股价涨幅显著，接近84%，但其盈利能力（EPS）波动较大且近期有所下滑，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股在过去半年内股价涨幅适中（约10.6%），近期股价虽有回调但未形成持续下跌趋势，财务表现稳健，未达到观察列表的排除标准。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股在过去一个月内股价出现明显下跌趋势，跌幅超过20%，尽管近期略有反弹，但整体下跌态势显著，应予排除。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股在过去一个月内股价出现明显下跌趋势，跌幅超过20%，应予排除。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股在过去一个月内股价出现明显下跌趋势，跌幅超过10%，应予排除。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
