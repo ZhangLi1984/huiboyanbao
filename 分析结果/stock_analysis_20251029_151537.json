@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月底的约17.74元涨至2025年10月底的80.80元）涨幅超过350%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "300502",
+    "name": "",
+    "analysis_result": {
+      "code": "300502",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月底的约64.28元涨至2025年10月底的406.10元）涨幅超过530%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "300394",
+    "name": "",
+    "analysis_result": {
+      "code": "300394",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月底的约47.94元涨至2025年10月底的194.50元）涨幅超过300%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "code": "300274",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月底的约53.06元涨至2025年10月底的191.49元）涨幅超过260%，存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期一个月内（从2025年9月底的约92.57元跌至2025年10月底的81.42元）价格出现明显下跌，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "300438",
+    "name": "",
+    "analysis_result": {
+      "code": "300438",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近期一个月内价格波动但未形成明显下跌趋势，近半年涨幅约80%，未达到巨大泡沫风险水平。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期一个月内（从2025年9月底的约33.84元跌至2025年10月底的29.63元）价格出现明显下跌，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002645",
+    "name": "",
+    "analysis_result": {
+      "code": "002645",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（从2025年4月底的约7.72元涨至2025年10月底的17.00元）涨幅超过120%，存在一定的泡沫风险。"
+    }
+  },
+  {
+    "code": "002600",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
