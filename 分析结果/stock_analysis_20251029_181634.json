@@ -1,0 +1,99 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅超过103%，短期内表现出高度的投机性和潜在泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅超过355%，市场炒作迹象明显，存在巨大的估值泡沫风险。"
+    }
+  },
+  {
+    "code": "300394",
+    "name": "",
+    "analysis_result": {
+      "code": "300394",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅超过305%，短期内涨幅巨大，存在高度的估值过高和市场炒作风险。"
+    }
+  },
+  {
+    "code": "300502",
+    "name": "",
+    "analysis_result": {
+      "code": "300502",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅超过531%，短期内表现出极高的投机性和潜在泡沫风险。"
+    }
+  },
+  {
+    "code": "603256",
+    "name": "",
+    "analysis_result": {
+      "code": "603256",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅超过347%，短期内表现出高度的投机性和估值泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002270",
+    "name": "",
+    "analysis_result": {
+      "code": "002270",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅接近87%，结合近期市场情绪，存在一定的估值过高和炒作风险。"
+    }
+  },
+  {
+    "code": "300438",
+    "name": "",
+    "analysis_result": {
+      "code": "300438",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内股价涨幅超过80%，短期内表现出显著的投机性和估值过高风险。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内股价涨幅不足9%，近期也未出现明显下跌走势，不符合排除标准。"
+    }
+  }
+]
