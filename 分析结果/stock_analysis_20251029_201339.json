@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内价格上涨超过100%，尽管近期价格有所波动，但在大幅上涨后，结合其2024年盈利水平低于2022年且盈利具有波动性，当前市盈率（约37.5倍）偏高，存在明显的泡沫风险。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内价格飙升超过500%，尽管盈利增长强劲，但当前市盈率（超过112倍）显示出极度夸张的估值，这种快速、抛物线式的价格上涨通常伴随着严重的泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内价格暴涨超过350%，而其盈利增长虽稳定但属中等水平，当前市盈率（超过69倍）估值显著过高，已出现明显的炒作迹象和泡沫风险。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内价格上涨约87%，同时公司盈利波动剧烈且2024年净利润较2023年大幅下滑，当前市盈率高达71倍以上，显示出严重的高估，存在显著的泡沫风险。"
+    }
+  },
+  {
+    "code": "300936",
+    "name": "",
+    "analysis_result": {
+      "code": "300936",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格走势平稳，过去一个月无明显下跌趋势。近六个月涨幅约为14.5%，未达到排除标准中“涨幅巨大”的程度。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）表现出清晰、持续的下跌趋势，从10月初的高点约67-68元持续回落至月末约62元，期间虽有小幅反弹但未能企稳于前期高位。"
+    }
+  },
+  {
+    "code": "601899",
+    "name": "",
+    "analysis_result": {
+      "code": "601899",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格呈稳健上升趋势，过去六个月涨幅约为25%，未达到排除标准中“涨幅巨大”的程度，也无明显下跌趋势。"
+    }
+  },
+  {
+    "code": "600030",
+    "name": "",
+    "analysis_result": {
+      "code": "600030",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格走势平稳，过去六个月呈轻微下跌趋势（约-13.7%），未出现涨幅巨大或近期明显下跌走势以触发排除标准。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格走势平稳，过去六个月涨幅约为8.6%，未达到排除标准中“涨幅巨大”的程度，也无明显下跌趋势。"
+    }
+  }
+]
