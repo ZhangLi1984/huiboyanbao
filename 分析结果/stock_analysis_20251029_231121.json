@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约17.74元上涨至80.80元，涨幅高达约355%，显示出巨大的短期涨幅，存在明显的泡沫风险和过度炒作嫌疑。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近期（过去1个月）未呈现明显的持续下跌走势，近半年涨幅约15.26%，不构成巨大涨幅或泡沫风险，因此不予排除。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约27.74元上涨至58.55元，涨幅超过111%，属于巨大涨幅，可能存在估值过高和炒作泡沫风险。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近期（过去1个月）未呈现明显的持续下跌走势，近半年涨幅约73.01%，虽然涨幅较大，但尚未达到判断为巨大泡沫的阈值（通常为100%以上），因此不予排除。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去1个月，特别是10月9日至10月22日期间）从约34.52元下跌至约26.97元，跌幅超过20%，显示出清晰且持续的下跌趋势，尽管近期略有反弹，但未见明显企稳迹象。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近期（过去1个月）未呈现明显的持续下跌走势，近半年涨幅约6.19%，不构成巨大涨幅或泡沫风险，因此不予排除。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近期（过去1个月）未呈现明显的持续下跌走势，近半年涨幅约16.88%，不构成巨大涨幅或泡沫风险，因此不予排除。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去1个月，特别是10月9日至10月17日期间）从约72.49元下跌至约62.80元，跌幅超过13%，且在10月末再次出现下跌，显示出清晰且持续的下跌趋势，未见明显企稳迹象。"
+    }
+  }
+]
