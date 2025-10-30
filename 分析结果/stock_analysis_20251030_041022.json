@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年经历了非常巨大的涨幅，从2025年4月底的约27.65元上涨至10月底的约57.58元，涨幅超过100%，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年经历了显著涨幅，从2025年4月底的约68.73元上涨至10月底的约103.90元，涨幅超过50%，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动正常，无明显下跌或巨大涨幅，财务数据暂无明显排除依据。"
+    }
+  },
+  {
+    "code": "301029",
+    "name": "",
+    "analysis_result": {
+      "code": "301029",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（过去一个月）表现出清晰、持续的下跌趋势，从9月底的约31.91元下跌至10月底的约28.65元，跌幅超过10%，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（过去一个月）表现出清晰、持续的下跌趋势，从9月底的约66.58元下跌至10月底的约61.88元，跌幅超过7%，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（过去一个月）表现出清晰、持续的下跌趋势，从9月底的约92.57元下跌至10月底的约81.60元，跌幅超过11%，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "code": "300274",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年经历了极其巨大的涨幅，从2025年4月底的约17.58元暴涨至10月底的约198.62元，涨幅超过1000%，存在严重的估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（过去一个月）表现出清晰、持续的下跌趋势，从9月底的约70.64元下跌至10月底的约62.95元，跌幅超过10%，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
