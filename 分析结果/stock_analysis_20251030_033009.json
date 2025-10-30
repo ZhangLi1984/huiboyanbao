@@ -1,0 +1,97 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从2025年4月30日的约17.71元上涨至2025年10月30日的约79.98元，涨幅超过350%，属于涨幅巨大，存在潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从2025年4月30日的约27.65元上涨至2025年10月30日的约57.46元，涨幅超过100%，属于涨幅巨大，存在潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在最近一个月价格波动较大，但未呈现清晰、持续的下跌趋势且有企稳迹象；过去半年涨幅约52.7%，未达到巨大涨幅水平。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格主要呈震荡走势，未有明显持续的下跌趋势；过去半年涨幅约78.5%，未达到巨大涨幅水平。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从2025年10月9日的约34.52元下跌至2025年10月22日的约26.97元，跌幅超过20%，构成近期明显下跌走势，尽管近期有所反弹但仍显著低于前期高点。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格经历中旬下跌后出现强劲反弹，已显现企稳迹象；过去半年涨幅约56.2%，未达到巨大涨幅水平。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期呈现温和上涨趋势，未有明显下跌；过去半年涨幅约14.24%，未达到巨大涨幅水平。"
+    }
+  }
+]
