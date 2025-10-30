@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "漲幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约18元飙升至近78元，涨幅超过300%，价格短期内巨大涨幅显示存在泡沫风险，建议排除。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "漲幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约27元上涨至近58元，涨幅超过110%，短期内涨幅巨大，存在炒作和泡沫风险，建议排除。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "漲幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约83元飙升至近514元，涨幅超过500%，价格短期内巨大涨幅显示存在严重泡沫风险，建议排除。"
+    }
+  },
+  {
+    "code": "600460",
+    "name": "",
+    "analysis_result": {
+      "code": "600460",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年涨幅约31%，未达巨大涨幅标准；近期股价震荡，无明显持续下跌趋势；但其2023-2024年净利润和自由现金流为负，财务状况堪忧，建议投资者自行核实并谨慎对待。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明顯下跌走勢",
+      "analysis": "该股票在最近一个月（9月底至10月中旬）从约92元下跌至75元，跌幅超过18%，构成近期明显下跌走势，且未完全企稳，建议排除。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明顯下跌走勢",
+      "analysis": "该股票在最近一个月（9月底至10月中旬）从约33元下跌至27元，跌幅超过18%，构成近期明显下跌走势，即使月末有所反弹，仍建议排除。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年涨幅约57%，未达巨大涨幅标准；近期股价虽有小幅波动，但未形成清晰、持续的下跌趋势，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价平稳甚至略有下跌（考虑分红后），未出现巨大涨幅或近期明显下跌趋势，不符合任何排除标准。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
