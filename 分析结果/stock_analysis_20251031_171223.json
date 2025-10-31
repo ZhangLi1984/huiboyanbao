@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票价格在过去半年经历了约90.05%的巨大涨幅，估值可能过高，存在潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票价格在过去半年经历了超过300%的巨大涨幅，估值可能过高，存在显著泡沫风险。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票价格在过去半年有约45.89%的涨幅，但未达到巨大炒作接近泡沫的程度；近期价格下跌约4.75%，未形成明显持续的下跌走势。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票价格在近期（过去一个月）表现出约13.69%的明显持续下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "301029",
+    "name": "",
+    "analysis_result": {
+      "code": "301029",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票价格在近期（过去一个月）下跌约9.87%，结合其短期波动性分析，已形成较为明显的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票价格在过去半年经历了约78.16%的巨大涨幅，估值可能过高，存在潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票价格在近期（过去一个月）表现出约18.56%的明显持续下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "600460",
+    "name": "",
+    "analysis_result": {
+      "code": "600460",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票价格在过去半年有明显下跌，但近期（过去一个月）价格波动不大（约+1.37%），未形成明显持续下跌走势，也无巨大涨幅带来的泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
