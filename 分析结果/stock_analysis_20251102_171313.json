@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约27元涨至最高约66元，涨幅超过140%，显示出巨大的价格上涨和潜在的泡沫风险，尽管近期有所回调。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约17元涨至最高约80元，涨幅超过350%，价格涨幅极其巨大，存在明显的泡沫风险，并在近期出现急剧下跌。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约83元涨至最高约542元，涨幅超过550%，价格涨幅巨大且伴随近期急跌，表明存在严重的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格波动相对稳定，未出现明显的持续下跌或巨大涨幅导致泡沫风险；但其自由现金流持续减少，需关注其长期盈利质量。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从月初高点持续下跌，且近期反弹力度不足，没有明确的企稳迹象，符合近期明显下跌的排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从月初高点持续下跌，且近期反弹力度不足，没有明确的企稳迹象，符合近期明显下跌的排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近一个月内从月初高点持续下跌，尽管月末有所反弹但仍低于月初水平，未见明确企稳，符合近期明显下跌的排除标准。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格表现稳健上涨，未出现明显下跌或巨大涨幅导致泡沫风险；但其自由现金流在2023和2024年均为负值，建议用户自行核实相关财务报表以评估其现金流健康状况。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
