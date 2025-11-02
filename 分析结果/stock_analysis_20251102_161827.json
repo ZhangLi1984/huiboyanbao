@@ -1,0 +1,86 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内，从约18元涨至最高点超80元，即便近期有所回调，整体涨幅依然达到惊人的400%以上，估值可能过高，存在显著的泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价波动相对平稳，未出现近期明显的下跌趋势，也无巨大涨幅带来的泡沫风险。财务数据完整。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近三天内（10月29日至10月31日）股价从58.55元下跌至52.55元，跌幅超过10%，呈现清晰、持续的下跌趋势，短期内未见企稳迹象。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价围绕45-60元区间震荡，最高涨幅约33%，未达到巨大涨幅的水平，也无近期持续下跌走势。财务数据完整。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601339",
+    "name": "",
+    "analysis_result": {
+      "code": "601339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在最近几天内（10月27日至10月31日）股价从5.70元下跌至5.34元，跌幅约6.3%，呈现清晰的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价整体呈现小幅下跌，并无巨大涨幅导致的泡沫风险。近期股价虽有波动，但未构成明显持续下跌趋势。财务数据完整。"
+    }
+  }
+]
