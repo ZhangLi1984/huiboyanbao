@@ -1,0 +1,110 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约28元涨至最高约66元，涨幅巨大，尽管近期有所回调，但当前股价相比半年前仍大幅上涨，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价虽有震荡，但未形成清晰、持续的下跌趋势；近半年涨幅也未达到巨大水平，不构成排除标准。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价走势平稳，未见明显下跌迹象；近半年股价波动幅度较小，未经历巨大涨幅，不构成排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价从10月初的约24.8元下跌至目前约23.05元，下跌趋势明显，且未见有效企稳迹象。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约18.1元涨至最高约34.8元，涨幅巨大，尽管近期股价有所波动，但大幅上涨的趋势仍在，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价从10月初的约67.7元下跌至目前约62.5元，下跌趋势明显，且未能有效企稳。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价在波动中略有上涨，未形成明显下跌趋势；近半年涨幅虽有，但尚未达到巨大泡沫水平，不构成排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价从10月初的约34.5元下跌至目前约30.1元，跌幅较大，且未见有效企稳迹象。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价波动较小，未出现明显下跌趋势；近半年股价略有下跌，未经历巨大涨幅，不构成排除标准。"
+    }
+  }
+]
