@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年（从2025年5月6日的18.10元上涨至2025年11月5日的74.00元）经历了超过300%的巨大涨幅，存在明显的泡沫风险和过度炒作迹象。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年（从2025年5月6日的28.16元上涨至2025年11月5日的51.08元）累计涨幅高达81.39%，短期内涨幅巨大，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年（从2025年5月6日的18.10元上涨至2025年11月5日的31.37元）累计涨幅高达73.31%，短期内涨幅巨大，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从2025年10月9日的24.84元下跌至2025年11月5日的22.30元）下跌了10.29%，表现出清晰、持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002270",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从2025年10月9日的35.82元下跌至2025年11月5日的31.10元）下跌了13.01%，表现出清晰、持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在近期未表现出明显下跌走势，过去半年也未经历巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在近期（从2025年10月15日的42.15元高点下跌至2025年11月5日的37.42元）下跌了11.22%，表现出清晰、持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "股票价格在近期未表现出明显下跌走势，过去半年也未经历巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "512480",
+    "name": "",
+    "analysis_result": {
+      "code": "512480",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "数据不完整，关键财务报表（利润表、资产负债表、现金流量表）严重缺失，建议用户自行核实相关财务报表。"
+    }
+  }
+]
