@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内涨幅接近300%（从约18.27元升至约72.69元），存在巨大的泡沫风险。"
+    }
+  },
+  {
+    "code": "600487",
+    "name": "",
+    "analysis_result": {
+      "code": "600487",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内有约41%的涨幅，但未达到巨大涨幅接近泡沫的程度，近期股价走势呈现震荡态势，无明显持续下跌。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内（从10月初的约24.84元跌至目前的约23.20元）呈现清晰、持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内有约66%的涨幅，但近期股价在经历前期回调后有所震荡并有企稳迹象，未形成持续下跌趋势且估值泡沫风险有所缓解。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内（从10月初高点98.0元跌至最低约75.29元）表现出清晰且持续的下跌趋势。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内（从10月初的约55.13元跌至目前的约46.5元）表现出清晰、持续的下跌趋势，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价波动较小，仅有约4%的温和涨幅，没有出现明显下跌或巨大涨幅的情况。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年内股价走势平稳，基本保持在28元附近震荡，无明显下跌或巨大涨幅的情况。"
+    }
+  }
+]
