@@ -1,0 +1,108 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月底的58.55元高点下跌至11月7日的50.20元，表现出清晰、持续的下跌趋势，无企稳迹象。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月底的87.38元下跌至11月7日的77.42元，表现出清晰、持续的下跌趋势，无企稳迹象。"
+    }
+  },
+  {
+    "code": "301029",
+    "name": "",
+    "analysis_result": {
+      "code": "301029",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月初的32.24元高点下跌至11月7日的27.53元，表现出清晰、持续的下跌趋势，无企稳迹象。"
+    }
+  },
+  {
+    "code": "300840",
+    "name": "",
+    "analysis_result": {
+      "code": "300840",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月初的20.18元高点持续下跌至11月7日的18.62元，趋势清晰，无企稳迹象。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月底的111.65元高点持续下跌至11月7日的99.81元，趋势清晰，无企稳迹象。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月初的19.21元高点持续下跌至11月7日的15.18元，趋势清晰，无企稳迹象。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去1个月）价格从10月初的98.00元高点下跌至11月7日的85.69元，期间虽有反弹但总体下跌趋势明显，无明确企稳迹象。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期走势虽有波动，但价格从10月底的400.00元高点到11月7日的395.37元跌幅不明显，且在最近几天有企稳和回升迹象，未完全符合近期持续下跌且无企稳迹象的排除标准，也未显示出巨大涨幅带来的泡沫风险。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
