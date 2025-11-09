@@ -1,0 +1,110 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅巨大，超过84%，存在估值过高和泡沫化风险。此外，近期股价也呈现明显下跌，从月内高点下降超过12%且没有企稳迹象。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅巨大，超过77%，存在估值过高和泡沫化风险。近期股价从月内高点下跌超过10%，未能有效企稳。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内呈现出明显下跌趋势，从高点下降约7.7%，且没有明确企稳迹象，符合排除标准。虽然过去半年涨幅较显著，但未达炒作泡沫的程度。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅超过50%，存在估值过高和泡沫化风险。同时，近期股价也从月内高点下跌超过6.5%，未能有效企稳。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "code": "300274",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内经历了极其巨大的涨幅，超过230%，存在严重的泡沫化风险，应予排除。尽管近期股价在波动中有所反弹，但整体风险巨大。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内呈现出明显下跌趋势，跌幅接近9%，没有企稳迹象，符合排除标准。其在过去半年的涨幅并不显著，不构成泡沫风险。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内呈现出明显下跌趋势，跌幅超过11%，且没有企稳迹象，符合排除标准。其在过去半年的涨幅虽高，但未达炒作泡沫的程度。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年及近一个月内价格走势相对平稳，未出现近期明显下跌趋势或巨大涨幅接近泡沫的风险，不符合排除标准。"
+    }
+  },
+  {
+    "code": "000895",
+    "name": "",
+    "analysis_result": {
+      "code": "000895",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去半年及近一个月内价格走势相对平稳，未出现近期明显下跌趋势或巨大涨幅接近泡沫的风险，不符合排除标准。"
+    }
+  },
+  {
+    "code": "300015",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
