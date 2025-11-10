@@ -1,0 +1,106 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从2025年5月7日的约18.27元上涨至2025年11月7日的约72.70元，涨幅近300%，存在明显的涨幅巨大和潜在泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）表现出明显的下跌趋势，从2025年10月9日的约56.11元下跌至2025年11月7日的约50.20元，且未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）呈现出清晰的下跌趋势，从2025年10月9日的约108.15元下跌至2025年11月7日的约99.81元，没有明确的企稳信号。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）股价从2025年10月9日的约409.89元下跌至2025年11月7日的约395.37元，显示出持续的下跌趋势。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在近期（过去一个月）股价在60-68元区间震荡，虽有波动但未形成清晰、持续的下跌趋势，也未出现巨大涨幅带来的泡沫风险。财务数据完整。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）呈现出明显的下跌趋势，从2025年10月9日的约55.13元下跌至2025年11月7日的约46.50元，且在过去六个月内涨幅超过130%，存在炒作过热的风险。"
+    }
+  },
+  {
+    "code": "002920",
+    "name": "",
+    "analysis_result": {
+      "code": "002920",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在近期（过去一个月）表现出非常清晰、持续的下跌趋势，从2025年10月9日的约148.96元大幅下跌至2025年11月7日的约115.20元，没有企稳迹象。"
+    }
+  },
+  {
+    "code": "601609",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
