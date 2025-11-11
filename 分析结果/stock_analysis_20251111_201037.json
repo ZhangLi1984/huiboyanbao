@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约18.9元上涨至约68.0元，涨幅超过260%，存在巨大泡沫风险。"
+    }
+  },
+  {
+    "code": "300308",
+    "name": "",
+    "analysis_result": {
+      "code": "300308",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约96.8元上涨至约468.0元，涨幅超过380%，存在巨大泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价从2025年10月29日的59.05元高点下跌至2025年11月11日的47.92元，跌幅近19%，无明显企稳迹象。"
+    }
+  },
+  {
+    "code": "300502",
+    "name": "",
+    "analysis_result": {
+      "code": "300502",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约80.3元上涨至约326.0元，涨幅超过300%，且近一个月从高点下跌近20%，存在巨大泡沫风险。"
+    }
+  },
+  {
+    "code": "300274",
+    "name": "",
+    "analysis_result": {
+      "code": "300274",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "近半年股价从约65.6元上涨至约193.0元，涨幅接近200%，存在巨大泡沫风险。"
+    }
+  },
+  {
+    "code": "600522",
+    "name": "",
+    "analysis_result": {
+      "code": "600522",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价从2025年10月10日的约18.6元持续下跌至2025年11月11日的17.0元，跌幅超过8%，且无明显企稳迹象。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近一个月股价从2025年10月10日的约70.5元持续下跌至2025年11月11日的61.7元，跌幅超过12%，无明显企稳迹象。"
+    }
+  },
+  {
+    "code": "002185",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近半年股价走势平稳，无明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近半年股价走势平稳，无明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  }
+]
