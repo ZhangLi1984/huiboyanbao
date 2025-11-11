@@ -1,0 +1,112 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内从约18.9元上涨至约68.0元，涨幅高达约260%，存在估值过高和泡沫风险。此外，近期价格从高点80.8元下跌至68.0元，跌幅约15.8%，呈现明显下跌趋势，应予排除。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年内有约60.7%的涨幅，且近期价格从高点58.55元下跌至47.92元，跌幅约18.2%，呈现明显下跌趋势，应予排除。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内有约67.8%的涨幅，但近期价格虽有回调但未形成持续的明显下跌趋势，波动性较大，尚未达到排除标准。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票过去半年价格整体下跌，且近期价格从10月底的约50元下跌至约44元，跌幅约11.9%，呈现明显下跌趋势，应予排除。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势相对平稳，过去半年内价格无明显涨跌幅，不符合排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去半年内有约40.7%的涨幅，近期价格波动但未形成明显持续下跌趋势，尚未达到排除标准。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格波动但无明显下跌趋势，过去半年内涨幅仅约3.9%，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳，过去半年内涨幅仅约3.6%，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳，过去半年内价格呈小幅下跌，不符合排除标准。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳，过去半年内涨幅仅约11.5%，不符合排除标准。"
+    }
+  }
+]
