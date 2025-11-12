@@ -1,0 +1,97 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内实现了超过260%的巨大涨幅，尽管近期（过去一个月）有所回调，但如此快速的增长表明估值可能过高，存在显著的泡沫风险。结合近期从高位下跌约15%，炒作成分明显。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从高点持续下跌，尤其从10月底的58.55元下跌至11月12日的46.80元，跌幅近20%，呈现清晰、持续的回调趋势，短期内未见企稳迹象。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从10月底的87.38元下跌至11月12日的72.08元，跌幅超过17%，呈现清晰、持续的回调趋势，短期内未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内从10月中旬的24元持续下跌至11月12日的21.70元，跌幅近10%，且从8月份的阶段高点34.29元计算跌幅超过36%，呈现明显回调趋势，短期内未见企稳迹象。"
+    }
+  },
+  {
+    "code": "300750",
+    "name": "",
+    "analysis_result": {
+      "code": "300750",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "尽管近期股价有所波动，但财务报表中的净利润和每股收益数据在2022-2023年出现异常大幅增长后在2024年大幅回落，数据存在显著异常，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "002497",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票价格在过去六个月内相对稳定，未出现大幅上涨或持续下跌，且财务数据表现出持续稳健增长，不符合观察列表的任何排除标准。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票价格在过去六个月内波动不大，整体涨幅有限，且近期未出现明显下跌趋势。财务数据表现稳健，不符合观察列表的任何排除标准。"
+    }
+  }
+]
