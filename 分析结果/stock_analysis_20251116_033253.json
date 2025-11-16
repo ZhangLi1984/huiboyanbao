@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约19.17元上涨至最高约80.80元，涨幅超过300%，即使近期有所回调，当前价格相对半年前涨幅仍超235%，存在明显的泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近两周股价从约58.55元下跌至约44.58元，跌幅达24%，表现出清晰、持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近两周股价从约87.38元下跌至约71.31元，跌幅达18.5%，表现出清晰、持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动较大，但未形成清晰、持续的下跌趋势。过去半年股价从约15.26元上涨至约22.28元，涨幅约46%，处于中等水平，目前未见明显泡沫风险。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从约55.36元上涨至约85.87元，涨幅超55%，且曾一度达到约99.86元（涨幅超80%），存在潜在的泡沫风险。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动较大，未形成清晰、持续的下跌趋势。过去半年股价从约24.51元下跌至约15.11元，跌幅近38%，不存在泡沫风险。"
+    }
+  },
+  {
+    "code": "600938",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动较小，未形成清晰、持续的下跌或显著上涨趋势。过去半年股价从约1603.48元下跌至约1456.60元，跌幅约9%，不存在泡沫风险。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "近期股价波动不大，未形成清晰、持续的下跌或显著上涨趋势。过去半年股价从约29.35元微跌至约29.02元，不存在泡沫风险。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
