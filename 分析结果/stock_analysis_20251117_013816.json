@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从约18.68上涨至约64.27，涨幅超过240%，显示出巨大的短期涨幅，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票自2025年10月底（最高约58.55）以来，至2025年11月14日（约44.58），价格持续下跌超过23%，近期趋势明显向下且缺乏企稳迹象。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价涨幅约17.5%，且近期（过去一个月）价格波动不大，未达到明显下跌或涨幅巨大接近泡沫的排除标准。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价表现平稳，涨幅约3.2%，且近期（过去一个月）价格波动微小，未达到任何排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内股价从约19.34上涨至约37.17，涨幅接近92%，显示出巨大的短期涨幅，存在明显的炒作和泡沫风险。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "code": "300763",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价有约55%的涨幅，但近期已从高点回落并呈现震荡走势，未能形成持续的下跌趋势，也未达到涨幅巨大接近泡沫的程度。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "code": "600961",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价涨幅约45%，近期（过去一个月）价格波动较大，但未形成清晰、持续的下跌趋势，也未达到涨幅巨大接近泡沫的排除标准。"
+    }
+  },
+  {
+    "code": "301029",
+    "name": "",
+    "analysis_result": {
+      "code": "301029",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票自2025年10月上旬（最高约32.24）以来，至2025年11月14日（约27.21），价格下跌超过15%，近期趋势明显向下且缺乏企稳迹象。"
+    }
+  }
+]
