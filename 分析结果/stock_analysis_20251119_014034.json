@@ -1,0 +1,86 @@
+[
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价走势平稳，未出现明显下跌或巨大涨幅。财务报表显示其总营收和净利润呈增长态势，自由现金流虽有波动但保持健康，整体基本面较为稳健。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内（从5月到10月）股价涨幅超过240%，从18元附近飙升至最高83元，已出现明显且巨大的涨幅，存在炒作过热和泡沫风险。尽管近期有所回调，但短期内累积的涨幅过大，应予以排除。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价波动不大，未出现明显下跌或巨大涨幅。财务报表显示其营收稳定增长，但净利润和自由现金流波动较大，需自行核实更详细的财务数据以评估其长期价值。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价走势平稳，未出现明显下跌或巨大涨幅。然而，财务报表显示近年来净利润和自由现金流出现下滑趋势，虽然营收保持增长，但盈利能力和现金创造能力需引起关注。"
+    }
+  },
+  {
+    "code": "002064",
+    "name": "",
+    "analysis_result": {
+      "code": "002064",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价呈温和上涨趋势，未出现巨大涨幅或明显下跌。但从财务报表来看，公司近年来净利润持续下降，盈利能力面临挑战，需关注基本面风险。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在今年6月至8月期间股价从13元附近飙升至最高32元，涨幅超过140%，短期内累积了巨大的涨幅，存在炒作和泡沫风险。尽管近期股价已从高点回落，但其此前的大幅上涨性质属于泡沫炒作，应予以排除。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
