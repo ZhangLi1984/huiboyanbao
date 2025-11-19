@@ -1,0 +1,104 @@
+[
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价走势平稳，在过去1个月内未出现明显下跌趋势，且过去半年涨幅温和，未显示出估值过高或泡沫迹象。财务报表数据完整。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价在过去两周内呈现明显下跌趋势，跌幅超过14%，没有企稳迹象。此外，过去半年涨幅高达约250%，可能存在泡沫破裂风险，投资者应高度警惕。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价在过去1个月内呈现明显下跌趋势，跌幅超过11%，没有企稳迹象，表明市场对其前景存在担忧。财务报表数据完整。"
+    }
+  },
+  {
+    "code": "300938",
+    "name": "",
+    "analysis_result": {
+      "code": "300938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年内涨幅巨大，调整股权稀释后涨幅超过105%，可能存在估值过高和泡沫风险，应谨慎对待。财务报表数据完整。"
+    }
+  },
+  {
+    "code": "301219",
+    "name": "",
+    "analysis_result": {
+      "code": "301219",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "近期股价波动不大，在过去1个月内未出现明显下跌趋势，且过去半年涨幅约19%，表现合理，未显示估值过高或泡沫迹象。财务报表数据完整。"
+    }
+  },
+  {
+    "code": "300763",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603067",
+    "name": "",
+    "analysis_result": {
+      "code": "603067",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票价格在过去半年内涨幅巨大，接近80%，可能存在估值过高和炒作泡沫风险。近期股价虽有波动，但整体涨幅显著。财务报表数据完整。"
+    }
+  },
+  {
+    "code": "600961",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
