@@ -1,0 +1,99 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去六个月内经历了高达252.8%的巨大涨幅，估值存在严重泡沫风险。尽管近期已从高点下跌约18.4%，但其前期涨幅已远超合理范围，显示出明显的炒作特征，因此建议排除在观察列表之外。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内，特别是从近期高点下跌超过25.17%，且目前股价仍在持续下行，未见明显企稳迹象，符合近期明显下跌走势的排除标准。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价波动不大，涨幅仅约3.6%，近期也无明显下跌趋势，财务数据完整，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价温和上涨约14.7%，近期无明显下跌趋势，也未出现巨大涨幅导致泡沫风险，财务数据完整，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600763",
+    "name": "",
+    "analysis_result": {
+      "code": "600763",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价波动平稳，涨幅约4.4%，近期无明显下跌趋势，亦无巨大涨幅带来的泡沫风险，财务数据完整，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内温和上涨约41.4%，近期股价虽有波动但未形成清晰、持续的下跌趋势，也不属于涨幅巨大接近泡沫的范畴，财务数据完整，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002882",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "000651",
+    "name": "",
+    "analysis_result": {
+      "code": "000651",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票在过去六个月内股价略有下跌约10.4%，近期波动不大，无明显持续下跌或巨大涨幅，财务数据完整，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002859",
+    "name": "",
+    "analysis_result": {
+      "code": "002859",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票从近期10月底的高点（33.45元）至2025年11月20日（29.28元）下跌约12.5%，且最近几个交易日呈持续下跌态势，未见企稳，符合近期明显下跌走势的排除标准。"
+    }
+  }
+]
