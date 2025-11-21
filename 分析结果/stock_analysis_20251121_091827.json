@@ -1,0 +1,97 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月）价格呈现清晰、持续的下跌趋势，未见企稳迹象，故排除。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月）价格呈现清晰、持续的下跌趋势，未见企稳迹象，故排除。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅巨大，价格翻番有余，存在估值过高和泡沫风险，故排除。"
+    }
+  },
+  {
+    "code": "002926",
+    "name": "",
+    "analysis_result": {
+      "code": "002926",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳，未出现明显下跌或巨大涨幅，且财务数据稳定，暂不排除。"
+    }
+  },
+  {
+    "code": "301286",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳，未出现明显下跌或巨大涨幅，且财务数据持续稳健增长，暂不排除。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期价格走势平稳，未出现明显下跌或巨大涨幅，且财务数据表现出色，持续稳健增长，暂不排除。"
+    }
+  },
+  {
+    "code": "002913",
+    "name": "",
+    "analysis_result": {
+      "code": "002913",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（最近1个月）价格呈现清晰、持续的下跌趋势，未见企稳迹象，故排除。"
+    }
+  }
+]
