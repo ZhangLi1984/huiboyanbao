@@ -1,0 +1,104 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内（2025年10月21日至2025年11月21日）从约51.96元下跌至约42.31元，跌幅超过18%，呈现清晰且持续的下跌趋势，未见企稳迹象，存在短期进一步下行风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内（2025年5月21日至2025年11月21日）从约18.61元上涨至约60.67元，涨幅超过226%，期间曾达80.80元高点，估值可能过高，存在显著的泡沫风险，尽管近期有所回调，仍需高度警惕。"
+    }
+  },
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去一个月内（2025年10月21日至2025年11月21日）从约82.78元下跌至约67.88元，跌幅约18%，表现出清晰、持续的下跌趋势，未见企稳迹象，建议规避短期风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票在过去一个月内（2025年10月21日至2025年11月21日）股价小幅上涨约2.5%，未出现明显下跌趋势，过去半年涨幅（约12.1%）亦在合理范围，不符合排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "512400",
+    "name": "",
+    "analysis_result": {
+      "code": "512400",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（利润表、现金流量表）严重缺失，无法进行完整的财务分析，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "515070",
+    "name": "",
+    "analysis_result": {
+      "code": "515070",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票的关键财务数据（利润表、现金流量表）严重缺失，无法进行完整的财务分析，尽管近期股价有所下跌，但根据特殊情况处理规则，不予排除，建议用户自行核实相关财务报表。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
