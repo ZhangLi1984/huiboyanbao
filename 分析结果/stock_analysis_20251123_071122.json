@@ -1,0 +1,108 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股近期出现明显下跌趋势（近一个月从高点下跌超过20%），但近半年涨幅巨大，财务数据显示公司盈利持续增长。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股近期出现明显下跌趋势（近一个月从高点下跌超过25%），且近半年涨幅较大，财务数据显示公司盈利有所波动但整体向好。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股近期出现明显下跌趋势（近一个月从高点下跌超过10%），近半年涨幅有限，财务数据显示公司盈利能力有所波动。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股近期股价走势平稳，近半年涨幅有限，财务数据显示公司盈利持续增长。"
+    }
+  },
+  {
+    "code": "002064",
+    "name": "",
+    "analysis_result": {
+      "code": "002064",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股近期股价呈震荡上行态势，但近半年跌幅较大，财务数据显示公司净利润持续下滑。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股近期股价波动不大，近半年涨幅有限，财务数据显示公司盈利能力良好但净利润在2024年有所下滑。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股近期股价保持相对稳定，近半年无显著涨跌，财务数据显示公司盈利能力持续强劲增长。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "code": "002648",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股近期股价出现明显下跌趋势（近一个月从高点下跌超过15%），近半年无显著涨跌，但财务数据显示公司盈利在2024年有所提升。"
+    }
+  }
+]
