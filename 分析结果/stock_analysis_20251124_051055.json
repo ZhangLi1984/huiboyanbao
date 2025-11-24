@@ -1,0 +1,110 @@
+[
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在最近一个月从11月10日的57.15元高点下跌至11月24日的51.01元，跌幅超过10%，呈现明显下跌走势。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在最近一个多月从10月10日的19.15元高点下跌至11月24日的13.99元，跌幅超过25%，呈现明显下跌走势。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在最近一个多月从10月9日的56.11元高点下跌至11月24日的42.56元，跌幅超过24%，呈现明显下跌走势。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在最近六个月累计上涨约14.78%，最近一个月则表现为震荡整理，未出现明显的下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "603606",
+    "name": "",
+    "analysis_result": {
+      "code": "603606",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在最近一个多月从10月9日的72.49元高点下跌至11月24日的58.13元，跌幅超过19%，呈现明显下跌走势。"
+    }
+  },
+  {
+    "code": "600900",
+    "name": "",
+    "analysis_result": {
+      "code": "600900",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在最近六个月累计下跌约5.34%，最近一个月均表现为窄幅震荡，未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股票价格在最近六个月累计上涨约3.63%，最近一个月均表现为窄幅震荡，未出现明显下跌或巨大涨幅。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002850",
+    "name": "",
+    "analysis_result": {
+      "code": "002850",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在最近一个多月从10月9日的192.20元高点下跌至11月24日的151.00元，跌幅超过21%，呈现明显下跌走势。"
+    }
+  },
+  {
+    "code": "603063",
+    "name": "",
+    "analysis_result": {
+      "code": "603063",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股票价格在最近一个多月从10月10日的35.33元高点下跌至11月24日的28.19元，跌幅超过20%，呈现明显下跌走势。"
+    }
+  }
+]
