@@ -1,0 +1,108 @@
+[
+  {
+    "code": "000988",
+    "name": "",
+    "analysis_result": {
+      "code": "000988",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期股价呈明显下跌趋势，过去一个月跌幅超过17%，且尚未显示出企稳迹象。"
+    }
+  },
+  {
+    "code": "300570",
+    "name": "",
+    "analysis_result": {
+      "code": "300570",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期股价呈明显下跌趋势，过去一个月跌幅超过10%，未见企稳信号。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期股价大幅下跌，一个月内跌幅超21%，下跌趋势显著。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近一个月股价波动不大，半年内有一定涨幅但近期涨势放缓，未达排除标准。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期价格波动平缓，半年涨幅适中，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价稳健，半年涨幅温和，未达到排除标准。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "code": "002991",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价小幅上涨，半年价格变动不大，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票股价近期和半年内波动均不大，涨幅微小，未达排除标准。"
+    }
+  }
+]
