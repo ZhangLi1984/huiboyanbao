@@ -1,0 +1,130 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅巨大，存在明显泡沫风险，近期已出现回调，需警惕后续下跌空间。"
+    }
+  },
+  {
+    "code": "000002",
+    "name": "",
+    "analysis_result": {
+      "code": "000002",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期股价持续下跌，且2024年财务表现显示公司出现巨额亏损，存在较大风险。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年内涨幅巨大，存在明显泡沫风险，近期已出现回调，需警惕后续下跌空间。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期股价出现明显且持续的下跌趋势，应警惕进一步风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期股价走势平稳，且过去半年未出现巨大涨幅。尽管2024年报表显示较大少数股东权益亏损及非经常性损益，但这不是排除的直接理由，建议进一步核查财务明细。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票过去半年有一定涨幅（约54%），但近期走势相对平稳，未出现明显下跌趋势或过度炒作的泡沫迹象。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期和过去半年股价走势平稳，财务报表显示公司盈利能力强劲，未发现需排除的风险。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近期和过去半年股价走势平稳，未出现明显下跌趋势或过度炒作的泡沫迹象，且财务表现良好。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票在过去半年，尤其在近期，经历了极其巨大的涨幅，存在严重的泡沫化炒作风险，建议立即排除。"
+    }
+  },
+  {
+    "code": "002991",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期股价出现明显且持续的下跌趋势，尽管公司财务表现尚可，但短期下行风险较大。"
+    }
+  },
+  {
+    "code": "603067",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  }
+]
