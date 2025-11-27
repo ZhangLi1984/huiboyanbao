@@ -1,0 +1,88 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在最近一个月内从约56.47元下跌至45.0元，跌幅超过20%，显示出清晰、持续的下跌趋势，未见企稳迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "股票在过去半年内从约18.11元上涨至最高约80.80元，涨幅一度超过340%，目前虽有回调，但整体涨幅超过230%，短期内积累了巨大的涨幅，存在较高的泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去半年内有约50%的上涨，但近期（最近一个月）跌幅不明显（约-4.5%），且已从高点显著回调，目前不符合排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去半年上涨超过50%，但近期（最近一个月）走势平稳且略有反弹，未呈现明显下跌或当前泡沫化迹象，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "code": "600301",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去半年表现出高度波动，曾有大幅回调后又迅速反弹，但从半年初始点看总体涨幅不足5%，且近期未呈现明显下跌趋势，不符合排除标准。"
+    }
+  },
+  {
+    "code": "000683",
+    "name": "",
+    "analysis_result": {
+      "code": "000683",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "股价在近期（11月19日至11月26日）从约7.53元下跌至6.91元，跌幅超过8%，显示出短期内较为明显的下跌趋势，虽有小幅反弹，但未完全企稳。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去半年和近期均表现平稳，总体涨幅不足10%，未呈现明显下跌或泡沫化迹象，不符合排除标准。"
+    }
+  }
+]
