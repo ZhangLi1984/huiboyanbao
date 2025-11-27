@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价从2025年10月28日的57.90元下跌至2025年11月27日的44.89元，跌幅达22.5%，呈明显下跌走势且无企稳迹象。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "涨幅巨大，炒作接近泡沫",
+      "analysis": "过去半年股价从2025年5月27日的18.11元上涨至2025年11月27日的60.25元，涨幅高达232.69%，尽管近期有所回调（一个月内下跌18.6%），但鉴于其巨大的短期涨幅，股价估值可能过高，存在泡沫风险。"
+    }
+  },
+  {
+    "code": "001339",
+    "name": "",
+    "analysis_result": {
+      "code": "001339",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去一个月下跌约7.4%（从2025年10月28日的56.40元跌至2025年11月27日的52.33元），未达到明显下跌标准；过去半年涨幅约40.25%，虽然上涨较多，但未显示出巨大泡沫风险，且公司营收保持增长。"
+    }
+  },
+  {
+    "code": "603166",
+    "name": "",
+    "analysis_result": {
+      "code": "603166",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "近期股价从2025年10月28日的16.24元下跌至2025年11月27日的14.33元，跌幅达11.76%，呈明显下跌走势且无企稳迹象。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去一个月上涨约6.9%（从2025年10月28日的61.48元涨至2025年11月27日的65.72元），过去半年涨幅约21.2%，未达到排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "601128",
+    "name": "",
+    "analysis_result": {
+      "code": "601128",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去一个月上涨约2.3%（从2025年10月28日的7.00元涨至2025年11月27日的7.16元），过去半年涨幅约6.6%，未达到排除标准。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "股价在过去一个月下跌约0.7%（从2025年10月28日的5.46元跌至2025年11月27日的5.42元），未达到明显下跌标准；过去半年涨幅约3.2%，未达到巨大涨幅标准，不构成排除理由。"
+    }
+  }
+]
