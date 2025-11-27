@@ -1,0 +1,110 @@
+[
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势和涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近期（过去一个月）呈现清晰、持续的下跌走势，且过去半年股价涨幅超过200%，最高点涨幅达300%以上，存在估值过高和泡沫风险。"
+    }
+  },
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势和涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近期（过去一个月）股价明显下跌，且过去半年股价从约26元上涨至最高约66元，涨幅近150%，存在炒作过热的泡沫风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价走势平稳，未出现清晰、持续的下跌趋势，且过去半年涨幅较小，未发现估值过高或泡沫风险。"
+    }
+  },
+  {
+    "code": "002536",
+    "name": "",
+    "analysis_result": {
+      "code": "002536",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势和涨幅巨大，炒作接近泡沫",
+      "analysis": "该股票近期（过去一个月）股价呈现明显下跌，且过去半年股价从约14元上涨至最高约32元，涨幅超过120%，存在炒作过热的泡沫风险。"
+    }
+  },
+  {
+    "code": "002185",
+    "name": "",
+    "analysis_result": {
+      "code": "002185",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去一个月）股价从约12.47元下跌至约10.75元，呈现明显下跌走势，建议谨慎观察。"
+    }
+  },
+  {
+    "code": "300776",
+    "name": "",
+    "analysis_result": {
+      "code": "300776",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去一个月）股价从约67.55元下跌至约59.54元，呈现明显下跌走势，建议谨慎观察。"
+    }
+  },
+  {
+    "code": "002648",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603009",
+    "name": "",
+    "analysis_result": {
+      "code": "603009",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票近期（过去一个月）股价从约49.09元下跌至约40.58元，呈现明显下跌走势，建议谨慎观察。"
+    }
+  },
+  {
+    "code": "600298",
+    "name": "",
+    "analysis_result": {
+      "code": "600298",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价走势平稳，未出现清晰、持续的下跌趋势，且过去半年涨幅较小，未发现估值过高或泡沫风险。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "code": "600519",
+      "name": "",
+      "should_exclude": false,
+      "reason": "",
+      "analysis": "该股票近期股价走势平稳，未出现清晰、持续的下跌趋势，且过去半年股价略有下跌，未发现估值过高或泡沫风险。"
+    }
+  }
+]
