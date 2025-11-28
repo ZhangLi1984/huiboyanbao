@@ -1,0 +1,106 @@
+[
+  {
+    "code": "002938",
+    "name": "",
+    "analysis_result": {
+      "code": "002938",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年有显著涨幅（约68.7%），但在近一个月内（2025年10月28日至11月28日）价格从57.90元跌至45.13元，跌幅超过22%，表现出清晰、持续的下跌趋势，未见企稳迹象，存在短期风险。"
+    }
+  },
+  {
+    "code": "600050",
+    "name": "",
+    "analysis_result": {
+      "code": "600050",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年涨幅约4.6%，近一个月的股价走势相对平稳（下跌约1.1%），未出现明显下跌或涨幅巨大到炒作泡沫的程度，不符合排除标准。"
+    }
+  },
+  {
+    "code": "601138",
+    "name": "",
+    "analysis_result": {
+      "code": "601138",
+      "name": "",
+      "should_exclude": true,
+      "reason": "近期明显下跌走势",
+      "analysis": "该股票在过去半年涨幅巨大（从18.22元涨至60.72元，涨幅超过233%），存在估值过高或泡沫化风险。此外，近一个月内（2025年10月28日至11月28日）价格从73.99元跌至60.72元，跌幅近18%，已明显下跌，可能正在经历回调。"
+    }
+  },
+  {
+    "code": "000400",
+    "name": "",
+    "analysis_result": {
+      "code": "000400",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年有约38.2%的涨幅，但未达巨大泡沫程度，且近一个月股价走势平稳（微涨约0.038%），不符合排除标准。"
+    }
+  },
+  {
+    "code": "603129",
+    "name": "",
+    "analysis_result": {
+      "code": "603129",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年有约48.8%的涨幅，但未达巨大泡沫程度，且近一个月股价呈温和上涨趋势（上涨约4.24%），不符合排除标准。"
+    }
+  },
+  {
+    "code": "600309",
+    "name": "",
+    "analysis_result": {
+      "code": "600309",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年涨幅约23.9%，近一个月的股价走势呈温和上涨（上涨约9.17%），未出现明显下跌或涨幅巨大到炒作泡沫的程度，不符合排除标准。"
+    }
+  },
+  {
+    "code": "600519",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "603663",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "600301",
+    "name": "",
+    "analysis_result": {
+      "should_exclude": true,
+      "reason": "分析失败",
+      "analysis": "未能从AI获取对此股票的有效分析。请检查日志中AI的原始响应。"
+    }
+  },
+  {
+    "code": "002372",
+    "name": "",
+    "analysis_result": {
+      "code": "002372",
+      "name": "",
+      "should_exclude": false,
+      "reason": null,
+      "analysis": "该股票近半年股价小幅下跌（约7.4%），近一个月的股价走势相对平稳（下跌约1.1%），未出现明显下跌或巨大涨幅，不符合排除标准。"
+    }
+  }
+]
