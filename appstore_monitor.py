@@ -744,49 +744,6 @@ def analyze_stocks_in_batch(all_stock_data):
         logging.error(f"批量AI分析期间发生严重错误: {e}")
         return {}
 
-def save_stock_analysis_results(all_stock_data):
-    """将最终的分析结果保存为JSON和Markdown文件。"""
-    logging.info("正在保存所有股票筛选分析结果...")
-    current_time = datetime.now().strftime('%Y%m%d_%H%M%S')
-    report_data = [{"code": s["code"], "name": s["name"], "analysis_result": s.get("analysis_result", {})} for s in all_stock_data]
-    
-    json_path = os.path.join(ANALYSIS_RESULT_DIR, f"stock_analysis_{current_time}.json")
-    md_path = os.path.join(ANALYSIS_RESULT_DIR, f"stock_analysis_{current_time}.md")
-
-    logging.info(f"准备将JSON结果写入: {json_path}")
-    with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(report_data, f, ensure_ascii=False, indent=2)
-
-    logging.info(f"准备将Markdown报告写入: {md_path}")
-    with open(md_path, 'w', encoding='utf-8') as f:
-        f.write(f"# 股票筛选分析报告 (AI-Powered)\n\n**分析时间:** {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
-        included = [s for s in report_data if not s.get('analysis_result', {}).get('should_exclude')]
-        excluded = [s for s in report_data if s.get('analysis_result', {}).get('should_exclude')]
-        f.write(f"## 筛选摘要\n\n- **总分析股票数:** {len(report_data)}\n- **建议保留:** {len(included)}\n- **建议排除:** {len(excluded)}\n\n")
-        
-        f.write("## 建议保留的股票\n\n")
-        if included:
-            f.write("| 股票代码 | 公司名称 | AI分析摘要 |\n|:---:|:---:|:---|\n")
-            for stock in included:
-                analysis_text = stock['analysis_result'].get('analysis', 'N/A')
-                if "建议用户自行核实" in analysis_text:
-                    analysis_text = f"**{analysis_text}**"
-                f.write(f"| {stock['code']} | {stock['name']} | {analysis_text} |\n")
-        else:
-            f.write("无。\n\n")
-            
-        f.write("\n## 建议排除的股票\n\n")
-        if excluded:
-            f.write("| 股票代码 | 公司名称 | 排除原因 | AI分析摘要 |\n|:---:|:---:|:---:|:---|\n")
-            for stock in excluded:
-                reason = stock['analysis_result'].get('reason', 'N/A')
-                analysis = stock['analysis_result'].get('analysis', 'N/A')
-                f.write(f"| {stock['code']} | {stock['name']} | **{reason}** | {analysis} |\n")
-        else:
-            f.write("无。\n\n")
-            
-    logging.info(f"分析结果已成功保存至 {json_path} 和 {md_path}")
-    return md_path
 
 def perform_stock_check_analysis(report_file_path):
     """执行股票筛选分析并将结果补充到报告文件"""
@@ -829,35 +786,6 @@ def perform_stock_check_analysis(report_file_path):
         stock_data['analysis_result'] = analysis_results_map.get(stock_code, error_result)
     logging.info("已成功映射所有AI分析结果。")
 
-    # 4. 保存结果
-    logging.info("\n--- 步骤 3/4: 保存股票筛选分析报告 ---")
-    stock_analysis_report_path = save_stock_analysis_results(all_stock_data)
-    if not stock_analysis_report_path:
-        logging.error("保存股票筛选报告失败，Check功能终止。")
-        return False
-
-    # 5. 补充到主报告
-    logging.info("\n--- 步骤 4/4: 将股票筛选结果补充到原始报告 ---")
-    if os.path.exists(stock_analysis_report_path):
-        try:
-            with open(stock_analysis_report_path, 'r', encoding='utf-8') as f:
-                stock_analysis_content = f.read()
-            with open(report_file_path, 'r', encoding='utf-8') as f:
-                original_report = f.read()
-            
-            supplemented_report = original_report + "\n\n---\n\n" + stock_analysis_content
-            
-            with open(report_file_path, 'w', encoding='utf-8') as f:
-                f.write(supplemented_report)
-            logging.info(f"股票筛选分析结果已成功补充到原始报告: {report_file_path}")
-            logging.info("===== 股票筛选工作流 (Check功能) 成功完成 =====")
-            return True
-        except Exception as e:
-            logging.error(f"补充股票筛选分析结果到原始报告失败: {e}")
-            return False
-    else:
-        logging.error(f"找不到生成的股票筛选报告文件: {stock_analysis_report_path}")
-        return False
 
 def process_all_data():
     """处理所有数据，生成、保存并发送综合分析"""
