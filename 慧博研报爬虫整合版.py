@@ -103,6 +103,15 @@ def save_data(data, prefix="研报数据"):
         
         # 同时保存一个当前最新版本的文件（方便其他程序引用）
         latest_file = os.path.join(OUTPUT_DIR, f"{prefix}_最新数据.csv")
+        
+        # 如果文件已存在，先删除
+        if os.path.exists(latest_file):
+            try:
+                os.remove(latest_file)
+                print(f"🗑️ 已删除旧版本: {latest_file}")
+            except Exception as e:
+                print(f"⚠️ 删除旧版本失败 (可能文件被占用): {e}")
+
         df.to_csv(latest_file, index=False, encoding='utf-8-sig')
         print(f"✅ 最新数据已保存至: {latest_file}")
         
