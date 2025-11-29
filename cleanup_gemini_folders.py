@@ -14,24 +14,25 @@ logging.basicConfig(
     datefmt='%Y-%m-%d %H:%M:%S'
 )
 
-# 任务1配置：清理旧文件夹 (Gemini内容)
+# 任务1配置：清理旧文件夹 (Gemini内容) - 按日期清理
 TARGET_DIR_FOLDERS = "Gemini发送内容"
 DAYS_TO_KEEP = 10
 
-# 任务2配置：清理旧研报数据 (保留最近50个)
+# 任务2配置：清理旧研报数据 (保留最近50个) - 按数量清理
 TARGET_DIR_REPORTS = "研报数据"
 MAX_REPORT_FILES = 50
 
-# 任务3配置：其他需要清理的目录 (保留最近30个)
-# 注意：请根据您实际的文件夹名称修改下面的路径
+# 任务3配置：其他需要清理的目录 (保留最近30个) - 按数量清理
+# 注意：已根据您的要求更新为实际中文路径
 EXTRA_DIRS_TO_CLEAN = [
-    "analysis_results",      # 对应：分析结果 (ANALYSIS_RESULT_DIR)
-    "global_market_data",    # 对应：国际市场数据
-    "daily_reports",         # 对应：每日报告
-    "stock_data",            # 对应：股票原始数据
-    "财联社/output/cls"      # 对应：财联社数据
+    "分析结果",
+    "国际市场数据",
+    "每日报告",
+    "股票原始数据",
+    "财经新闻数据",
+    "财联社/output/cls"
 ]
-MAX_EXTRA_FILES = 30     # 限制数量
+MAX_EXTRA_FILES = 30     # 限制保留的数量
 
 def clean_old_subfolders():
     """
@@ -146,6 +147,10 @@ def clean_directory_by_count(target_dir, max_count):
     for item_name in os.listdir(target_dir):
         item_path = os.path.join(target_dir, item_name)
         
+        # 忽略隐藏文件（以.开头）
+        if item_name.startswith('.'):
+            continue
+
         # 规则: 总是保留“最新数据”
         if "最新数据" in item_name:
             logging.info(f"  - 永久保留: {item_name}")
@@ -176,9 +181,9 @@ def clean_directory_by_count(target_dir, max_count):
     for item_path in items_to_delete:
         try:
             if os.path.isdir(item_path):
-                shutil.rmtree(item_path)
+                shutil.rmtree(item_path) # 删除非空文件夹
             else:
-                os.remove(item_path)
+                os.remove(item_path)     # 删除文件
             logging.info(f"  - 已删除: {os.path.basename(item_path)}")
             deleted_c += 1
         except Exception as e:
@@ -195,7 +200,7 @@ def main():
     
     # 3. 清理其他目录 (按数量30)
     logging.info("-" * 30)
-    logging.info(f"任务3: 开始清理其他目录列表 (限制 {MAX_EXTRA_FILES} 个)...")
+    logging.info(f"任务3: 开始清理其他目录列表 (限制保留最近 {MAX_EXTRA_FILES} 个项目)...")
     for dir_path in EXTRA_DIRS_TO_CLEAN:
         clean_directory_by_count(dir_path, MAX_EXTRA_FILES)
         
