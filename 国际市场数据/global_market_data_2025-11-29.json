@@ -15,17 +15,13 @@
     "LEAN_HOGS_future": 80.5999984741211,
     "COPPER_future": 5.185500144958496,
     "High_Yield_Bond_ETF": 80.98999786376953,
-<<<<<<< Updated upstream
-    "LIVE_CATTLE_future": 217.85000610351562,
-=======
     "LIVE_CATTLE_future": 215.5749969482422,
->>>>>>> Stashed changes
     "GOLD_near_month_future": 4218.2998046875,
     "NATURAL_GAS_future": 4.849999904632568,
     "PLATINUM_future": 1685.0,
     "SILVER_future": 57.16299819946289,
     "Long_Term_Treasury_ETF": 90.20999908447266,
-    "CORN_future": 447.75,
+    "CORN_future": 435.5,
     "SOYBEANS_future": 1137.75,
     "WHEAT_future": 531.0,
     "SP500_close": 6849.08984375,
