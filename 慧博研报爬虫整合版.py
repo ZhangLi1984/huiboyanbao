@@ -52,7 +52,7 @@ def init_driver():
     """初始化浏览器驱动"""
     print("正在启动浏览器驱动...")
     options = uc.ChromeOptions()
-    options.add_argument('--headless')  # 调试时可注释此行以显示浏览器界面
+    # options.add_argument('--headless')  # 调试时可注释此行以显示浏览器界面
     options.add_argument('--no-sandbox')
     options.add_argument('--disable-dev-shm-usage')
     options.add_argument('--disable-gpu')
@@ -148,7 +148,8 @@ def scrape_microns_style_page(driver, category_name, category_id, start_page, en
                         # 标题
                         title_link = title_row.select_one('.tab_lta a') or title_row.find('a', href=re.compile(r'/data/'))
                         full_title = title_link.get_text(strip=True) if title_link else "N/A"
-                        link = f"https://www.hibor.com.cn{title_link['href']}" if title_link else "N/A"
+                        # [已修改] 不再保存链接
+                        # link = f"https://www.hibor.com.cn{title_link['href']}" if title_link else "N/A"
 
                         # 摘要
                         summary = "N/A"
@@ -184,7 +185,7 @@ def scrape_microns_style_page(driver, category_name, category_id, start_page, en
                             "评级": rating,
                             "页数": pages,
                             "日期": report_date,
-                            "链接": link,
+                            # "链接": link,  # [已移除] 节省Token
                             "页码": page_num,
                             "抓取时间": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                         })
@@ -239,7 +240,8 @@ def scrape_rightmore_style_page(driver, category_name, category_id, start_page, 
                     if not title_tag: continue
                     
                     full_title = title_tag.get('title') or title_tag.get_text(strip=True)
-                    link = f"https://www.hibor.com.cn{title_tag['href']}"
+                    # [已修改] 不再保存链接
+                    # link = f"https://www.hibor.com.cn{title_tag['href']}"
                     
                     rpt_type = cells[2].get_text(strip=True)
                     rating = cells[3].get_text(strip=True)
@@ -251,7 +253,7 @@ def scrape_rightmore_style_page(driver, category_name, category_id, start_page, 
                         "子类型": rpt_type,
                         "评级": rating,
                         "日期": pub_date,
-                        "链接": link,
+                        # "链接": link, # [已移除] 节省Token
                         "页码": page_num,
                         "抓取时间": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                     })
@@ -293,7 +295,8 @@ def scrape_elitelist_style_page(driver, category_name, category_id, start_page, 
                     # 索引: 0图标, 1标题, 2类型, 3作者, 4页数, 5时间
                     title_tag = cells[1].find('a')
                     full_title = title_tag.get('title') if title_tag else cells[1].get_text(strip=True)
-                    link = f"https://www.hibor.com.cn{title_tag['href']}" if title_tag else ""
+                    # [已修改] 不再保存链接
+                    # link = f"https://www.hibor.com.cn{title_tag['href']}" if title_tag else ""
                     
                     rpt_type = cells[2].get_text(strip=True)
                     author = cells[3].get_text(strip=True)
@@ -307,7 +310,7 @@ def scrape_elitelist_style_page(driver, category_name, category_id, start_page, 
                         "作者": author,
                         "页数": pages,
                         "日期": pub_date,
-                        "链接": link,
+                        # "链接": link, # [已移除] 节省Token
                         "页码": page_num,
                         "抓取时间": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                     })
