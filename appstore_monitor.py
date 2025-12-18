@@ -391,7 +391,7 @@ def summarize_cls_news_with_ai(cls_news_content):
     
     logging.info("开始使用 Gemini 摘要财联社新闻...")
     try:
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel('gemini-3-flash-preview')
         prompt = CLS_SUMMARY_PROMPT.format(cls_news_content=cls_news_content)
         
         # 保存发送给Gemini的摘要prompt
@@ -421,7 +421,7 @@ def generate_comprehensive_analysis(reports_data, financial_news, cls_news_summa
         logging.warning("未设置 Gemini API KEY，跳过生成分析")
         return "未配置 Gemini API KEY，无法生成分析"
     try:
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel('gemini-3-flash-preview')
         china_time = get_china_time()
         weekday_names = ["星期一", "星期二", "星期三", "星期四", "星期五", "星期六", "星期日"]
         weekday = weekday_names[china_time.weekday()]
@@ -688,7 +688,7 @@ def analyze_stocks_in_batch(all_stock_data):
     save_gemini_prompt_to_file(full_prompt, "stock_batch_analysis")
     
     try:
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel('gemini-3-flash-preview')
         logging.info("正在向 Gemini API 发送批量分析请求 (这可能需要一些时间)...")
         start_time = time.time()
         
