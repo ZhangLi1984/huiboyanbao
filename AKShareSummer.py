@@ -316,7 +316,7 @@ def generate_market_summary(market_data):
     
     try:
         # Using a valid, current model name.
-        model = genai.GenerativeModel('gemini-2.5-flash')
+        model = genai.GenerativeModel('gemini-3-flash-preview')
         
         prompt = f"""
 # 角色
