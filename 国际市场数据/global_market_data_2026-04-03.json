@@ -1,16 +1,16 @@
 {
   "latest_date": "2026-04-03",
   "latest_values": {
-    "Shanghai_Composite_Index": 3919.284912109375,
-    "CSI_300_Index": 4478.91015625,
-    "Shenzhen_Component_Index": 13486.9404296875,
+    "Shanghai_Composite_Index": 3880.0966796875,
+    "CSI_300_Index": 4440.7890625,
+    "Shenzhen_Component_Index": 13352.904296875,
     "ALUMINUM_future": 3411.0,
-    "BTC_price": 66895.328125,
+    "BTC_price": 66814.953125,
     "OIL_price": 111.54000091552734,
     "USD_CNY_exchange_rate": 6.870500087738037,
     "Commodity_Index_ETF": 29.329999923706055,
-    "US_Dollar_Index": 99.97000122070312,
-    "ETH_price": 2063.219970703125,
+    "US_Dollar_Index": 99.97799682617188,
+    "ETH_price": 2058.44921875,
     "GOLD_spot_price": 4651.5,
     "LEAN_HOGS_future": 90.3499984741211,
     "COPPER_future": 5.563000202178955,
@@ -29,6 +29,6 @@
     "US_10Y_Treasury_Yield": 4.313000202178955,
     "VIX_close": 23.8700008392334,
     "GOLD_basis_spot_vs_near": 0.0,
-    "China_10Y_Treasury_Yield": 1.8209
+    "China_10Y_Treasury_Yield": 1.8199
   }
 }
