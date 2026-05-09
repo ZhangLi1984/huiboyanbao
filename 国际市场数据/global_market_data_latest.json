@@ -5,12 +5,12 @@
     "CSI_300_Index": 4871.91015625,
     "Shenzhen_Component_Index": 15563.7998046875,
     "ALUMINUM_future": 3507.0,
-    "BTC_price": 80266.203125,
+    "BTC_price": 80192.7265625,
     "OIL_price": 95.41999816894531,
     "USD_CNY_exchange_rate": 6.800000190734863,
     "Commodity_Index_ETF": 30.299999237060547,
     "US_Dollar_Index": 97.83999633789062,
-    "ETH_price": 2314.31005859375,
+    "ETH_price": 2311.39990234375,
     "GOLD_spot_price": 4720.39990234375,
     "LEAN_HOGS_future": 90.875,
     "COPPER_future": 6.249000072479248,
@@ -29,6 +29,6 @@
     "US_10Y_Treasury_Yield": 4.363999843597412,
     "VIX_close": 17.190000534057617,
     "GOLD_basis_spot_vs_near": -10.30029296875,
-    "China_10Y_Treasury_Yield": 1.7648
+    "China_10Y_Treasury_Yield": 1.767
   }
 }
