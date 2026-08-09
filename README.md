@@ -1,3 +1,5 @@
+
+
 # 研报爬虫与AI分析系统
 
 这个项目包含两个主要功能：
@@ -19,14 +21,11 @@
 - 构建高成长潜力模拟投资组合
 - 通过方糖推送分析结果
 
-
-
-
 ## 本地运行
 
 ### 安装依赖
 ```bash
-pip install pandas beautifulsoup4 undetected-chromedriver selenium google-generativeai requests
+pip install pandas beautifulsoup4 undetected-chromedriver selenium google-generativeai requests akshare yfinance pytz
 ```
 
 ### 设置环境变量
@@ -47,5 +46,5 @@ python 慧博研报爬虫整合版.py
 
 ### 运行AI分析并推送
 ```bash
-python appstore_monitor.py
+python AKShareSummer.py
 ```
